@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Engineering Student | CSE @ Srinivas Institute of Technology  <br>💻 Aspiring Full-Stack Engineer | Passionate About Unique & Innovative Tech  <br>🌱 Lifelong Learner | Exploring Frontend, Backend & Everything In Between  <br>📚 5th Semester | Building Projects That Stand Out  <br>🚀 Problem Solver | Curious About New Technologies & Frameworks  <br>🛠️ Hands-on with Web Development, Python, and Full-Stack Projects  <br>🌐 Exploring AI, Data Science, and Emerging Tech Trends  <br>✨ Striving to Become a Unique Engineer Who Creates Impactful Solutions 
+🎓 Engineering Student | CSE @ Srinivas Institute of Technology  <br>💻 Aspiring Full-Stack Engineer | Passionate About Unique & Innovative Tech  <br>🌱 Lifelong Learner | Exploring Frontend, Backend & Everything In Between  <br>🚀 Problem Solver | Curious About New Technologies & Frameworks  <br>🛠️ Hands-on with Web Development, Python, and Full-Stack Projects  <br>🌐 Exploring AI, Data Science, and Emerging Tech Trends  <br>✨ Striving to Become a Unique Engineer Who Creates Impactful Solutions 
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Dhanush999-git&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-"Code with purpose, build with aura♨️ — let your creations speak louder than words" — Dhanush M D
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox&text=Code%20with%20purpose,%20build%20with%20aura♨️%20—%20let%20your%20creations%20speak%20louder%20than%20words.%20—%20Dhanush%20M%20D)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dhanush999-git&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
