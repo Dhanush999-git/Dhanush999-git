@@ -15,8 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dhanush999-git&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox&text=Code%20with%20purpose,%20build%20with%20aura♨️%20—%20let%20your%20creations%20speak%20louder%20than%20words.%20—%20Dhanush%20M%20D)
+### ✍️ My Dev Quote
+![]("Code with purpose, build with aura♨️ — let your creations speak louder than words." — Dhanush M D)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dhanush999-git&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
