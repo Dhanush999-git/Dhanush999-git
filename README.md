@@ -16,7 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Dhanush999-git&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ My Dev Quote
-![]("Code with purpose, build with aura♨️ — let your creations speak louder than words." — Dhanush M D)
+> "Code with purpose, build with aura ♨️ — let your creations speak louder than words."  
+> — **Dhanush M D**
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dhanush999-git&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
