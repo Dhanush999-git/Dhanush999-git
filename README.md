@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush999-git&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dhanush999-git&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dhanush999-git&theme=radical&no-frame=true&margin-w=10)
 
 ### ✍️ My Dev Quote
 > "Code with purpose, build with aura ♨️ — let your creations speak louder than words."  
