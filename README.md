@@ -22,7 +22,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Dhanush999-git&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ My Dev Quote
-> "Code with purpose, build with aura ♨️ — let your creations speak louder than words."  
+> "Code with purpose, build with aura🔥 — let your creations speak louder than words."  
 > — **Dhanush M D**
 
 ### 🔝 Top Contributed Repo
