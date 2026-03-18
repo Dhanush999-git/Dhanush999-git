@@ -23,7 +23,7 @@
 
 ### ✍️ My Dev Quote
 > "Code with purpose, build with aura🔥 — let your creations speak louder than words."  
-> — **Dhanush M D**
+>                                                                    — **Dhanush M D**
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dhanush999-git&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
