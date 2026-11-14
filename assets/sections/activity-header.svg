@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" width="1000" height="90" role="img" aria-label="Development Activity Header">
+  <title>05 / DEVELOPMENT ACTIVITY</title>
+  <defs>
+    <linearGradient id="act-hdr-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080D18"/>
+      <stop offset="100%" stop-color="#050810"/>
+    </linearGradient>
+    <clipPath id="act-hdr-clip"><rect width="1000" height="90" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#act-hdr-clip)">
+    <rect width="1000" height="90" fill="url(#act-hdr-bg)" stroke="#1E293B" stroke-width="1"/>
+    <text x="32" y="36" font-family="'SF Mono', monospace" font-size="11.5" letter-spacing="3" fill="#00F2FE" font-weight="700">05 / DEVELOPMENT ACTIVITY</text>
+    <text x="968" y="36" text-anchor="end" font-family="'SF Mono', monospace" font-size="11" letter-spacing="2" fill="#64748B">CONTINUOUS COMMIT TELEMETRY</text>
+    <line x1="32" y1="48" x2="968" y2="48" stroke="#1E293B" stroke-width="1"/>
+    <text x="32" y="72" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">Real-Time GitHub Activity &amp; Engineering Contributions</text>
+    <text x="968" y="72" text-anchor="end" font-family="'SF Mono', monospace" font-size="10.5" fill="#10B981">&#x25CF; AUTOMATED PIPELINE SYNCHRONIZED</text>
+  </g>
+</svg>

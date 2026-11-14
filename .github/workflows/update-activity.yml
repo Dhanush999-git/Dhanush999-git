@@ -1,0 +1,39 @@
+name: Update GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Midnight UTC every night
+  workflow_dispatch:      # Manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # GH_TOKEN is a Personal Access Token with repo/user permissions.
+      # If absent, the script falls back gracefully to the existing snapshot or clean fallback.
+      - name: Generate activity graph SVG
+        run: python3 scripts/generate_activity_graph.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Run unit tests
+        run: python3 -m unittest scripts/test_activity_graph.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/activity/activity-graph.svg assets/activity/activity-data.json assets/sections/activity-graph.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(activity): refresh GitHub contribution telemetry [skip ci]" && git push)
+

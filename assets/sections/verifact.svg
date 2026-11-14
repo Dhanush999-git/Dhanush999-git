@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 780" width="1000" height="780" role="img" aria-label="Flagship Project VeriFact - Multi-Modal AI Content Verification System">
+  <title>FLAGSHIP PROJECT — VERIFACT (Multi-Modal AI Content Authenticity Verification)</title>
+  <defs>
+    <!-- Backgrounds -->
+    <linearGradient id="vf-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080F1D"/>
+      <stop offset="50%" stop-color="#060A13"/>
+      <stop offset="100%" stop-color="#04060A"/>
+    </linearGradient>
+
+    <linearGradient id="node-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E192D"/>
+      <stop offset="100%" stop-color="#080E1A"/>
+    </linearGradient>
+
+    <linearGradient id="mod-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0D2121"/>
+      <stop offset="100%" stop-color="#081414"/>
+    </linearGradient>
+
+    <!-- Accents -->
+    <linearGradient id="emerald-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#00F2FE"/>
+    </linearGradient>
+
+    <!-- Filters -->
+    <filter id="vf-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="vf-card"><rect width="1000" height="780" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#vf-card)">
+    <!-- Base Canvas -->
+    <rect width="1000" height="780" fill="url(#vf-bg)"/>
+
+    <!-- Section Header Bar -->
+    <g transform="translate(40, 42)">
+      <text x="0" y="0" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="12" letter-spacing="3" fill="#10B981" font-weight="700">03 / FLAGSHIP SYSTEM SHOWCASE</text>
+      <text x="920" y="0" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="11" letter-spacing="2" fill="#00F2FE">AI-POWERED FORENSICS</text>
+      <line x1="0" y1="14" x2="920" y2="14" stroke="#1E293B" stroke-width="1"/>
+    </g>
+
+    <!-- Main Title & Abstract Verification Shield -->
+    <g transform="translate(40, 84)">
+      <!-- Abstract Hex Shield Logo -->
+      <g transform="translate(24, 24)">
+        <polygon points="0,-24 21,-12 21,12 0,24 -21,12 -21,-12" fill="#0E2822" stroke="#10B981" stroke-width="2" filter="url(#vf-glow)"/>
+        <!-- Shield Checkmark -->
+        <path d="M-8,-1 L-2,6 L10,-6" stroke="#00F2FE" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+
+      <text x="64" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="900" letter-spacing="1" fill="#FFFFFF">VERIFACT</text>
+      <rect x="238" y="6" width="168" height="22" rx="4" fill="#0B231D" stroke="#10B981" stroke-width="0.8"/>
+      <circle cx="250" cy="17" r="3.5" fill="#10B981">
+        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="260" y="21" font-family="'SF Mono', monospace" font-size="10.5" fill="#34D399" font-weight="700">MULTI-MODAL AUTHENTICITY</text>
+
+      <text x="64" y="48" font-family="'SF Mono', monospace" font-size="12" letter-spacing="1" fill="#38BDF8" font-weight="600">MULTI-MODAL AI-POWERED CONTENT AUTHENTICITY VERIFICATION SYSTEM</text>
+      <text x="64" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#94A3B8">
+        VeriFact is an AI-powered platform designed to analyze and verify the authenticity of digital content across multiple modalities,
+      </text>
+      <text x="64" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#94A3B8">
+        including text, images, videos, and URLs, identifying manipulated, misleading, deepfake, or suspicious media with forensic confidence scoring.
+      </text>
+    </g>
+
+    <!-- ARCHITECTURE DIAGRAM CONTAINER (920 x 300) -->
+    <g transform="translate(40, 206)">
+      <rect width="920" height="300" rx="10" fill="#070D18" stroke="#1E293B" stroke-width="1.2"/>
+      
+      <!-- Diagram Title -->
+      <g transform="translate(20, 24)">
+        <text x="0" y="0" font-family="'SF Mono', monospace" font-size="11" letter-spacing="2" fill="#00F2FE" font-weight="700">ACTUAL PRODUCTION ARCHITECTURE PIPELINE</text>
+        <text x="880" y="0" text-anchor="end" font-family="'SF Mono', monospace" font-size="10" fill="#64748B">END-TO-END DATA FLOW</text>
+      </g>
+      <line x1="20" y1="34" x2="900" y2="34" stroke="#162338" stroke-width="1"/>
+
+      <!-- PIPELINE STEP 1: CLIENT USER (x=30, y=70, w=150, h=64) -->
+      <g transform="translate(30, 70)">
+        <rect width="150" height="64" rx="8" fill="url(#node-grad)" stroke="#38BDF8" stroke-width="1.2"/>
+        <text x="14" y="24" font-family="'SF Mono', monospace" font-size="9" letter-spacing="1" fill="#38BDF8" font-weight="700">01 · FRONTEND CLIENT</text>
+        <text x="14" y="42" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">React + TypeScript</text>
+        <text x="14" y="56" font-family="'SF Mono', monospace" font-size="9.5" fill="#94A3B8">Vite · Tailwind CSS</text>
+      </g>
+
+      <!-- Connecting Line 1 -> 2 -->
+      <path d="M180,102 L225,102" stroke="#00F2FE" stroke-width="2" stroke-dasharray="4 4">
+        <animate attributeName="stroke-dashoffset" values="8;0" dur="1s" repeatCount="indefinite"/>
+      </path>
+      <polygon points="225,102 217,98 217,106" fill="#00F2FE"/>
+
+      <!-- PIPELINE STEP 2: API GATEWAY (x=230, y=70, w=160, h=64) -->
+      <g transform="translate(230, 70)">
+        <rect width="160" height="64" rx="8" fill="url(#node-grad)" stroke="#10B981" stroke-width="1.2"/>
+        <text x="14" y="24" font-family="'SF Mono', monospace" font-size="9" letter-spacing="1" fill="#10B981" font-weight="700">02 · API GATEWAY</text>
+        <text x="14" y="42" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Node.js + Express 5</text>
+        <text x="14" y="56" font-family="'SF Mono', monospace" font-size="9.5" fill="#94A3B8">REST API · Auth Guard</text>
+      </g>
+
+      <!-- Connecting Line 2 -> 3 -->
+      <path d="M390,102 L435,102" stroke="#10B981" stroke-width="2" stroke-dasharray="4 4">
+        <animate attributeName="stroke-dashoffset" values="8;0" dur="1s" repeatCount="indefinite"/>
+      </path>
+      <polygon points="435,102 427,98 427,106" fill="#10B981"/>
+
+      <!-- PIPELINE STEP 3: ML MICROSERVICE (x=440, y=70, w=180, h=64) -->
+      <g transform="translate(440, 70)">
+        <rect width="180" height="64" rx="8" fill="url(#node-grad)" stroke="#7928CA" stroke-width="1.4" filter="url(#vf-glow)"/>
+        <text x="14" y="24" font-family="'SF Mono', monospace" font-size="9" letter-spacing="1" fill="#C084FC" font-weight="700">03 · ML MICROSERVICE</text>
+        <text x="14" y="42" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Python + FastAPI</text>
+        <text x="14" y="56" font-family="'SF Mono', monospace" font-size="9.5" fill="#94A3B8">PyTorch · Transformers</text>
+      </g>
+
+      <!-- Connecting Line 3 -> 4 Modules Fanout -->
+      <path d="M620,102 L660,102" stroke="#7928CA" stroke-width="2"/>
+      <line x1="660" y1="56" x2="660" y2="242" stroke="#7928CA" stroke-width="1.5"/>
+
+      <!-- Branch Lines into 4 Modules -->
+      <path d="M660,68 L680,68" stroke="#00F2FE" stroke-width="1.5"/>
+      <path d="M660,126 L680,126" stroke="#10B981" stroke-width="1.5"/>
+      <path d="M660,184 L680,184" stroke="#F59E0B" stroke-width="1.5"/>
+      <path d="M660,242 L680,242" stroke="#38BDF8" stroke-width="1.5"/>
+
+      <!-- 4 VERIFICATION ENGINES (Right Stack) -->
+      <!-- Engine 1: Text Verification -->
+      <g transform="translate(680, 48)">
+        <rect width="210" height="42" rx="6" fill="#0A1826" stroke="#00F2FE" stroke-width="1"/>
+        <text x="12" y="18" font-family="'SF Mono', monospace" font-size="9" fill="#00F2FE" font-weight="700">01 · TEXT VERIFICATION</text>
+        <text x="12" y="32" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#E2E8F0">NLI · Claim Checking · Fact Evidence</text>
+      </g>
+
+      <!-- Engine 2: Image Verification -->
+      <g transform="translate(680, 106)">
+        <rect width="210" height="42" rx="6" fill="#091D1A" stroke="#10B981" stroke-width="1"/>
+        <text x="12" y="18" font-family="'SF Mono', monospace" font-size="9" fill="#10B981" font-weight="700">02 · IMAGE VERIFICATION</text>
+        <text x="12" y="32" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#E2E8F0">Noise Forensics · CNN Deepfake Detector</text>
+      </g>
+
+      <!-- Engine 3: Video Verification -->
+      <g transform="translate(680, 164)">
+        <rect width="210" height="42" rx="6" fill="#1C180E" stroke="#F59E0B" stroke-width="1"/>
+        <text x="12" y="18" font-family="'SF Mono', monospace" font-size="9" fill="#F59E0B" font-weight="700">03 · VIDEO VERIFICATION</text>
+        <text x="12" y="32" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#E2E8F0">VideoMAE · OpenCV Frame Sampling</text>
+      </g>
+
+      <!-- Engine 4: URL Verification -->
+      <g transform="translate(680, 222)">
+        <rect width="210" height="42" rx="6" fill="#091726" stroke="#38BDF8" stroke-width="1"/>
+        <text x="12" y="18" font-family="'SF Mono', monospace" font-size="9" fill="#38BDF8" font-weight="700">04 · URL VERIFICATION</text>
+        <text x="12" y="32" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#E2E8F0">Domain Scraping · Source Cross-Check</text>
+      </g>
+
+      <!-- Bottom Integration Row: Storage & Report Generation -->
+      <g transform="translate(30, 172)">
+        <rect width="360" height="92" rx="8" fill="#0B1322" stroke="#1E293B" stroke-width="1"/>
+        <text x="16" y="24" font-family="'SF Mono', monospace" font-size="10" letter-spacing="1" fill="#10B981" font-weight="700">DATABASE &amp; AUTHENTICATION TIERS</text>
+        <g transform="translate(16, 44)">
+          <rect width="156" height="34" rx="4" fill="#0E1E2E" stroke="#1E3A5F" stroke-width="0.8"/>
+          <text x="10" y="16" font-family="'SF Mono', monospace" font-size="10" fill="#38BDF8" font-weight="600">MongoDB</text>
+          <text x="10" y="28" font-family="'SF Mono', monospace" font-size="8.5" fill="#94A3B8">Scan History &amp; Reports</text>
+
+          <rect x="168" width="156" height="34" rx="4" fill="#0C201C" stroke="#0D4738" stroke-width="0.8"/>
+          <text x="178" y="16" font-family="'SF Mono', monospace" font-size="10" fill="#34D399" font-weight="600">Supabase</text>
+          <text x="178" y="28" font-family="'SF Mono', monospace" font-size="8.5" fill="#94A3B8">Auth &amp; User Sessions</text>
+        </g>
+      </g>
+
+      <!-- Forensic Report Generation Box -->
+      <g transform="translate(410, 172)">
+        <rect width="210" height="92" rx="8" fill="#0F172A" stroke="#00F2FE" stroke-width="1.2"/>
+        <text x="14" y="24" font-family="'SF Mono', monospace" font-size="9.5" letter-spacing="1" fill="#00F2FE" font-weight="700">RESULT ENSEMBLE ENGINE</text>
+        <text x="14" y="44" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Forensic Report Output</text>
+        <text x="14" y="60" font-family="'SF Mono', monospace" font-size="9" fill="#94A3B8">Confidence Score · Verdict</text>
+        <text x="14" y="74" font-family="'SF Mono', monospace" font-size="9" fill="#10B981">&#x2714; REAL / FAKE / SUSPICIOUS</text>
+      </g>
+    </g>
+
+    <!-- KEY FEATURES & METRICS GRID (Bottom Row: 920px total) -->
+    <g transform="translate(40, 526)">
+      <!-- Feature Card 1 -->
+      <g transform="translate(0, 0)">
+        <rect width="215" height="150" rx="8" fill="#0A1220" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="20" cy="24" r="4" fill="#00F2FE"/>
+        <text x="32" y="28" font-family="'SF Mono', monospace" font-size="10.5" fill="#00F2FE" font-weight="700">SCAN HISTORY</text>
+        <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Persistent Telemetry</text>
+        <text x="20" y="80" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#94A3B8">Maintains auditable history</text>
+        <text x="20" y="98" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#94A3B8">of all forensic verification</text>
+        <text x="20" y="116" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#94A3B8">scans and evidence trails.</text>
+      </g>
+
+      <!-- Feature Card 2 -->
+      <g transform="translate(235, 0)">
+        <rect width="215" height="150" rx="8" fill="#0A1220" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="20" cy="24" r="4" fill="#10B981"/>
+        <text x="32" y="28" font-family="'SF Mono', monospace" font-size="10.5" fill="#10B981" font-weight="700">CONFIDENCE SCORE</text>
+        <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Probabilistic Fusion</text>
+        <text x="20" y="80" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#94A3B8">Ensemble aggregation of</text>
+        <text x="20" y="98" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#94A3B8">multi-modal model scores</text>
+        <text x="20" y="116" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#94A3B8">yielding unified verdicts.</text>
+      </g>
+
+      <!-- Feature Card 3 -->
+      <g transform="translate(470, 0)">
+        <rect width="215" height="150" rx="8" fill="#0A1220" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="20" cy="24" r="4" fill="#F59E0B"/>
+        <text x="32" y="28" font-family="'SF Mono', monospace" font-size="10.5" fill="#F59E0B" font-weight="700">TEMPORAL ANALYSIS</text>
+        <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">VideoMAE Deepfakes</text>
+        <text x="20" y="80" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#94A3B8">Frame-level OpenCV</text>
+        <text x="20" y="98" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#94A3B8">sampling combined with</text>
+        <text x="20" y="116" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#94A3B8">temporal aggregation.</text>
+      </g>
+
+      <!-- Feature Card 4 -->
+      <g transform="translate(705, 0)">
+        <rect width="215" height="150" rx="8" fill="#0A1220" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="20" cy="24" r="4" fill="#7928CA"/>
+        <text x="32" y="28" font-family="'SF Mono', monospace" font-size="10.5" fill="#C084FC" font-weight="700">FORENSIC REPORTING</text>
+        <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Comprehensive Export</text>
+        <text x="20" y="80" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#94A3B8">Automated generation of</text>
+        <text x="20" y="98" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#94A3B8">forensic dossier, claims</text>
+        <text x="20" y="116" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#94A3B8">evidence &amp; web verification.</text>
+      </g>
+    </g>
+
+    <!-- Bottom Action & Repository Badge -->
+    <g transform="translate(40, 700)">
+      <rect width="920" height="52" rx="8" fill="#0C1527" stroke="#1E293B" stroke-width="1"/>
+      
+      <g transform="translate(20, 31)">
+        <circle cx="0" cy="0" r="4" fill="#10B981" filter="url(#vf-glow)"/>
+        <text x="14" y="4" font-family="'SF Mono', monospace" font-size="11" fill="#E2E8F0" font-weight="700">STATUS: CORE PIPELINE ACTIVE</text>
+        <text x="240" y="4" font-family="'SF Mono', monospace" font-size="11" fill="#64748B">|</text>
+        <text x="256" y="4" font-family="'SF Mono', monospace" font-size="11" fill="#94A3B8">GITHUB REPO: Dhanush999-git/MAJOR-PROJECT</text>
+      </g>
+
+      <!-- View Source Pill -->
+      <g transform="translate(760, 13)">
+        <rect width="144" height="26" rx="6" fill="#10B981" opacity="0.15"/>
+        <rect width="144" height="26" rx="6" fill="none" stroke="#10B981" stroke-width="1.2"/>
+        <text x="72" y="17" text-anchor="middle" font-family="'SF Mono', monospace" font-size="10.5" fill="#34D399" font-weight="700">FLAGSHIP REPO &#x2197;</text>
+      </g>
+    </g>
+
+    <!-- Outer Card Border -->
+    <rect x="0.5" y="0.5" width="999" height="779" rx="16" fill="none" stroke="#1E293B" stroke-width="1"/>
+  </g>
+</svg>

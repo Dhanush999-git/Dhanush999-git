@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="1000" height="520" role="img" aria-label="About Dhanush M D - Terminal Interface">
+  <title>01 / ABOUT ME — Developer Terminal</title>
+  <defs>
+    <linearGradient id="abt-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B111E"/>
+      <stop offset="100%" stop-color="#060A12"/>
+    </linearGradient>
+
+    <linearGradient id="abt-term-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#080D18"/>
+      <stop offset="100%" stop-color="#04070D"/>
+    </linearGradient>
+
+    <linearGradient id="abt-side-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1629"/>
+      <stop offset="100%" stop-color="#080E1A"/>
+    </linearGradient>
+
+    <filter id="abt-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="abt-card"><rect width="1000" height="520" rx="16"/></clipPath>
+    <clipPath id="term-clip"><rect width="630" height="395" rx="8"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#abt-card)">
+    <!-- Base Canvas -->
+    <rect width="1000" height="520" fill="url(#abt-bg)"/>
+
+    <!-- Section Header Bar -->
+    <g transform="translate(40, 42)">
+      <text x="0" y="0" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="12" letter-spacing="3" fill="#00F2FE" font-weight="700">01 / ABOUT ME</text>
+      <text x="920" y="0" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="11" letter-spacing="2" fill="#64748B">PROFILE IDENTITY // WHOAMI</text>
+      <line x1="0" y1="14" x2="920" y2="14" stroke="#1E293B" stroke-width="1"/>
+    </g>
+
+    <!-- LEFT: Main Terminal Window (630x400) -->
+    <g transform="translate(40, 80)">
+      <!-- Terminal Frame -->
+      <rect width="630" height="400" rx="10" fill="url(#abt-term-bg)" stroke="#1E293B" stroke-width="1.2"/>
+      
+      <!-- Terminal Top Bar -->
+      <rect width="630" height="34" rx="10" fill="#0E1729"/>
+      <rect y="24" width="630" height="10" fill="#0E1729"/>
+      <line x1="0" y1="34" x2="630" y2="34" stroke="#1E293B" stroke-width="1"/>
+      
+      <!-- Window Controls -->
+      <circle cx="20" cy="17" r="5" fill="#EF4444"/>
+      <circle cx="36" cy="17" r="5" fill="#F59E0B"/>
+      <circle cx="52" cy="17" r="5" fill="#10B981"/>
+      
+      <!-- Terminal Window Title -->
+      <text x="315" y="22" text-anchor="middle" font-family="'SF Mono', monospace" font-size="11" fill="#94A3B8">dhanush@developer: ~ (zsh)</text>
+
+      <!-- Terminal Body Content -->
+      <!-- Command 1: whoami -->
+      <text x="24" y="66" font-family="'SF Mono', monospace" font-size="12.5" fill="#00F2FE" font-weight="600">dhanush@developer:~$ <tspan fill="#FFFFFF">whoami</tspan></text>
+      <text x="24" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Dhanush M D</text>
+      <text x="24" y="112" font-family="'SF Mono', monospace" font-size="11.5" fill="#38BDF8">Full Stack Developer | AI/ML Engineer | Creative Technologist</text>
+
+      <!-- Command 2: cat interests.txt -->
+      <text x="24" y="148" font-family="'SF Mono', monospace" font-size="12.5" fill="#00F2FE" font-weight="600">dhanush@developer:~$ <tspan fill="#FFFFFF">cat interests.txt</tspan></text>
+      <g transform="translate(24, 168)" font-family="'SF Mono', monospace" font-size="11" fill="#E2E8F0">
+        <text x="0" y="0"><tspan fill="#10B981">&#x25B8;</tspan> Full Stack Development &amp; Web Applications</text>
+        <text x="0" y="18"><tspan fill="#10B981">&#x25B8;</tspan> Artificial Intelligence &amp; Machine Learning</text>
+        <text x="0" y="36"><tspan fill="#10B981">&#x25B8;</tspan> Multi-Modal Verification &amp; Computer Vision</text>
+        <text x="0" y="54"><tspan fill="#10B981">&#x25B8;</tspan> Python Architecture &amp; Scalable REST APIs</text>
+        <text x="0" y="72"><tspan fill="#10B981">&#x25B8;</tspan> Video Editing, Motion Graphics &amp; Creative Tech</text>
+      </g>
+
+      <!-- Command 3: cat philosophy.txt -->
+      <text x="24" y="278" font-family="'SF Mono', monospace" font-size="12.5" fill="#00F2FE" font-weight="600">dhanush@developer:~$ <tspan fill="#FFFFFF">cat philosophy.txt</tspan></text>
+      <text x="24" y="302" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-style="italic" font-size="13" fill="#94A3B8">"Building intelligent systems, engineering meaningful digital experiences, and</text>
+      <text x="24" y="322" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-style="italic" font-size="13" fill="#94A3B8">transforming ideas into reality."</text>
+
+      <!-- Command 4: echo $STATUS -->
+      <text x="24" y="356" font-family="'SF Mono', monospace" font-size="12.5" fill="#00F2FE" font-weight="600">dhanush@developer:~$ <tspan fill="#FFFFFF">echo $STATUS</tspan></text>
+      <rect x="24" y="368" width="310" height="22" rx="4" fill="#0E231F" stroke="#10B981" stroke-width="0.8"/>
+      <circle cx="34" cy="379" r="3.5" fill="#10B981" filter="url(#abt-glow)">
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+      </circle>
+      <text x="44" y="383" font-family="'SF Mono', monospace" font-size="11" fill="#34D399" font-weight="700">CONTINUOUSLY LEARNING AND BUILDING.</text>
+    </g>
+
+    <!-- RIGHT: Telemetry & Core Disciplines Card (270x400) -->
+    <g transform="translate(690, 80)">
+      <rect width="270" height="400" rx="10" fill="url(#abt-side-bg)" stroke="#1E293B" stroke-width="1.2"/>
+      
+      <!-- Card Header -->
+      <g transform="translate(20, 26)">
+        <text x="0" y="0" font-family="'SF Mono', monospace" font-size="10.5" letter-spacing="1.5" fill="#7928CA" font-weight="700">SYSTEM TELEMETRY</text>
+        <circle cx="225" cy="-4" r="4" fill="#10B981"/>
+      </g>
+      <line x1="20" y1="38" x2="250" y2="38" stroke="#1E293B" stroke-width="1"/>
+
+      <!-- Telemetry Items -->
+      <g transform="translate(20, 64)" font-family="'SF Mono', monospace">
+        <!-- Item 1 -->
+        <text x="0" y="0" font-size="9.5" fill="#64748B" letter-spacing="1">LOCATION</text>
+        <text x="0" y="18" font-size="12" fill="#E2E8F0" font-weight="600">India · Remote</text>
+
+        <!-- Item 2 -->
+        <text x="0" y="48" font-size="9.5" fill="#64748B" letter-spacing="1">CORE FOCUS</text>
+        <text x="0" y="66" font-size="12" fill="#00F2FE" font-weight="600">AI / ML + Full Stack</text>
+
+        <!-- Item 3 -->
+        <text x="0" y="96" font-size="9.5" fill="#64748B" letter-spacing="1">FLAGSHIP SYSTEM</text>
+        <text x="0" y="114" font-size="12" fill="#34D399" font-weight="600">VeriFact Verification</text>
+
+        <!-- Item 4 -->
+        <text x="0" y="144" font-size="9.5" fill="#64748B" letter-spacing="1">CREATIVE VENTURE</text>
+        <text x="0" y="162" font-size="12" fill="#C084FC" font-weight="600">Dhanush AE Store</text>
+
+        <!-- Item 5 -->
+        <text x="0" y="192" font-size="9.5" fill="#64748B" letter-spacing="1">PRIMARY RUNTIMES</text>
+        <text x="0" y="210" font-size="12" fill="#E2E8F0" font-weight="600">Python 3 · Node · Vite</text>
+      </g>
+
+      <!-- Bottom Status Pill in Card -->
+      <g transform="translate(20, 320)">
+        <rect width="230" height="52" rx="6" fill="#070D18" stroke="#1E293B" stroke-width="1"/>
+        <text x="14" y="20" font-family="'SF Mono', monospace" font-size="9.5" fill="#94A3B8">COLLABORATION STATUS</text>
+        <circle cx="20" cy="36" r="3.5" fill="#10B981" filter="url(#abt-glow)"/>
+        <text x="30" y="40" font-family="'SF Mono', monospace" font-size="11" fill="#34D399" font-weight="700">Open to Projects</text>
+      </g>
+    </g>
+
+    <!-- Outer Card Border -->
+    <rect x="0.5" y="0.5" width="999" height="519" rx="16" fill="none" stroke="#1E293B" stroke-width="1"/>
+  </g>
+</svg>

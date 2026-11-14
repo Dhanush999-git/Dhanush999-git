@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 44" width="210" height="44" role="img" aria-label="LinkedIn: Dhanush M D">
+  <title>LinkedIn: Dhanush M D</title>
+  <defs>
+    <linearGradient id="badge-bg-linkedin" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E1726"/>
+      <stop offset="100%" stop-color="#080D17"/>
+    </linearGradient>
+    <filter id="glow-linkedin" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="210" height="44" rx="8" fill="url(#badge-bg-linkedin)" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.7"/>
+  <g transform="translate(14, 12)">
+    <path fill="#38BDF8" d="M19 0h-18c-.55 0-1 .45-1 1v18c0 .55.45 1 1 1h18c.55 0 1-.45 1-1v-18c0-.55-.45-1-1-1zm-11 17h-3v-9h3v9zm-1.5-10.27c-.97 0-1.75-.79-1.75-1.76s.78-1.75 1.75-1.75 1.75.78 1.75 1.75-.78 1.76-1.75 1.76zm11.5 10.27h-3v-4.6c0-1.1-.02-2.52-1.54-2.52-1.54 0-1.77 1.2-1.77 2.44v4.68h-3v-9h2.88v1.23h.04c.4-.76 1.38-1.56 2.84-1.56 3.04 0 3.6 2 3.6 4.61v4.72z"/>
+  </g>
+  <text x="44" y="19" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="9" letter-spacing="1.2" fill="#94A3B8" font-weight="600">LINKEDIN</text>
+  <text x="44" y="32" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="11" letter-spacing="0.5" fill="#FFFFFF" font-weight="700">Dhanush M D</text>
+</svg>

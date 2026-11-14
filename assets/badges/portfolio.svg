@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 44" width="210" height="44" role="img" aria-label="Showcase: Dhanush Portfolio">
+  <title>Showcase: Dhanush Portfolio</title>
+  <defs>
+    <linearGradient id="badge-bg-portfolio" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E1726"/>
+      <stop offset="100%" stop-color="#080D17"/>
+    </linearGradient>
+    <filter id="glow-portfolio" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="210" height="44" rx="8" fill="url(#badge-bg-portfolio)" stroke="#A855F7" stroke-width="1.2" stroke-opacity="0.7"/>
+  <g transform="translate(14, 12)">
+    <path fill="#7928CA" d="M10 0C4.48 0 0 4.48 0 10s4.48 10 10 10 10-4.48 10-10S15.52 0 10 0zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v2.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V4h2c1.1 0 2-.9 2-2v-.41C16.92 3.2 19 6.35 19 10c0 2.27-.92 4.33-2.1 5.39z"/>
+  </g>
+  <text x="44" y="19" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="9" letter-spacing="1.2" fill="#94A3B8" font-weight="600">SHOWCASE</text>
+  <text x="44" y="32" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="11" letter-spacing="0.5" fill="#FFFFFF" font-weight="700">Dhanush Portfolio</text>
+</svg>
