@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" width="1000" height="440" role="img" aria-label="Let's Connect - Connectivity Hub">
-  <title>07 / LET'S CONNECT — Professional Connectivity Hub</title>
+  <title>09 / SOCIAL CONNECTIONS — Connectivity Hub</title>
   <defs>
     <linearGradient id="cnt-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#080D1A"/>
@@ -28,78 +28,78 @@
 
     <!-- Section Header -->
     <g transform="translate(40, 42)">
-      <text x="0" y="0" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="12" letter-spacing="3" fill="#00F2FE" font-weight="700">07 / LET'S CONNECT</text>
-      <text x="920" y="0" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="11" letter-spacing="2" fill="#64748B">INTERACTIVE HUB</text>
+      <text x="0" y="0" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="12" letter-spacing="3" fill="#00F2FE" font-weight="700">09 / SOCIAL CONNECTIONS</text>
+      <text x="920" y="0" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="11" letter-spacing="2" fill="#64748B">COMMUNICATION &amp; PLATFORMS</text>
       <line x1="0" y1="14" x2="920" y2="14" stroke="#1E293B" stroke-width="1"/>
     </g>
 
     <g transform="translate(40, 84)">
       <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">Initiate A Connection</text>
-      <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#94A3B8">Interested in building an intelligent AI system, a production full stack application, or collaborating on creative motion?</text>
+      <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#94A3B8">Interested in discussing software engineering, full stack applications, AI/ML systems, or professional opportunities?</text>
     </g>
 
     <!-- 4 LARGE INTERACTIVE CONTACT CARDS (4 x 215px) -->
-    <!-- Card 1: GitHub -->
+    <!-- Card 1: Gmail -->
     <g transform="translate(40, 134)">
       <rect width="215" height="180" rx="10" fill="url(#cnt-card-bg)" stroke="#00F2FE" stroke-width="1.2" stroke-opacity="0.4"/>
       <g transform="translate(20, 24)">
-        <circle cx="16" cy="16" r="16" fill="#091A2E" stroke="#00F2FE" stroke-width="1"/>
-        <path fill="#00F2FE" transform="translate(6, 6) scale(0.6)" d="M10 0C4.477 0 0 4.484 0 10.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0110 4.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.203 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.942.359.31.678.921.678 1.856 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0020 10.017C20 4.484 15.522 0 10 0z"/>
+        <circle cx="16" cy="16" r="16" fill="#0B231B" stroke="#00F2FE" stroke-width="1"/>
+        <path fill="#00F2FE" transform="translate(7, 7) scale(0.65)" d="M18 0H2C.9 0 0 .9 0 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V2c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V2l8 5 8-5v2z"/>
       </g>
-      <text x="20" y="80" font-family="'SF Mono', monospace" font-size="10" letter-spacing="1" fill="#64748B">SOURCE VAULT</text>
-      <text x="20" y="102" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">GitHub</text>
-      <text x="20" y="122" font-family="'SF Mono', monospace" font-size="10.5" fill="#38BDF8">@Dhanush999-git</text>
+      <text x="20" y="80" font-family="'SF Mono', monospace" font-size="10" letter-spacing="1" fill="#64748B">DIRECT DISPATCH</text>
+      <text x="20" y="102" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Gmail</text>
+      <text x="20" y="122" font-family="'SF Mono', monospace" font-size="8.8" fill="#00F2FE">mddhanush6@gmail.com</text>
       <g transform="translate(20, 138)">
-        <rect width="175" height="24" rx="4" fill="#0A2033" stroke="#00F2FE" stroke-width="0.8"/>
-        <text x="87" y="16" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#00F2FE" font-weight="700">EXPLORE CODE &#x2197;</text>
+        <rect width="175" height="24" rx="4" fill="#0A241B" stroke="#00F2FE" stroke-width="0.8"/>
+        <text x="87" y="16" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#00F2FE" font-weight="700">SEND EMAIL &#x2197;</text>
       </g>
     </g>
 
-    <!-- Card 2: LinkedIn -->
+    <!-- Card 2: Outlook -->
     <g transform="translate(275, 134)">
       <rect width="215" height="180" rx="10" fill="url(#cnt-card-bg)" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.4"/>
       <g transform="translate(20, 24)">
         <circle cx="16" cy="16" r="16" fill="#091A2E" stroke="#38BDF8" stroke-width="1"/>
-        <path fill="#38BDF8" transform="translate(7, 7) scale(0.65)" d="M19 0h-18c-.55 0-1 .45-1 1v18c0 .55.45 1 1 1h18c.55 0 1-.45 1-1v-18c0-.55-.45-1-1-1zm-11 17h-3v-9h3v9zm-1.5-10.27c-.97 0-1.75-.79-1.75-1.76s.78-1.75 1.75-1.75 1.75.78 1.75 1.75-.78 1.76-1.75 1.76zm11.5 10.27h-3v-4.6c0-1.1-.02-2.52-1.54-2.52-1.54 0-1.77 1.2-1.77 2.44v4.68h-3v-9h2.88v1.23h.04c.4-.76 1.38-1.56 2.84-1.56 3.04 0 3.6 2 3.6 4.61v4.72z"/>
+        <path fill="#38BDF8" transform="translate(7, 7) scale(0.65)" d="M18 0H2C.9 0 0 .9 0 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V2c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V2l8 5 8-5v2z"/>
       </g>
-      <text x="20" y="80" font-family="'SF Mono', monospace" font-size="10" letter-spacing="1" fill="#64748B">PROFESSIONAL</text>
-      <text x="20" y="102" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">LinkedIn</text>
-      <text x="20" y="122" font-family="'SF Mono', monospace" font-size="10.5" fill="#38BDF8">Dhanush M D</text>
+      <text x="20" y="80" font-family="'SF Mono', monospace" font-size="10" letter-spacing="1" fill="#64748B">PROFESSIONAL MAIL</text>
+      <text x="20" y="102" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Outlook</text>
+      <text x="20" y="122" font-family="'SF Mono', monospace" font-size="8.5" fill="#38BDF8">mddhanush6@outlook.com</text>
       <g transform="translate(20, 138)">
         <rect width="175" height="24" rx="4" fill="#0A2033" stroke="#38BDF8" stroke-width="0.8"/>
-        <text x="87" y="16" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#38BDF8" font-weight="700">CONNECT &#x2197;</text>
+        <text x="87" y="16" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#38BDF8" font-weight="700">OPEN OUTLOOK &#x2197;</text>
       </g>
     </g>
 
-    <!-- Card 3: Portfolio -->
+    <!-- Card 3: LinkedIn -->
     <g transform="translate(510, 134)">
       <rect width="215" height="180" rx="10" fill="url(#cnt-card-bg)" stroke="#7928CA" stroke-width="1.2" stroke-opacity="0.4"/>
       <g transform="translate(20, 24)">
         <circle cx="16" cy="16" r="16" fill="#1A0D30" stroke="#7928CA" stroke-width="1"/>
-        <path fill="#C084FC" transform="translate(7, 7) scale(0.65)" d="M10 0C4.48 0 0 4.48 0 10s4.48 10 10 10 10-4.48 10-10S15.52 0 10 0zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v2.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V4h2c1.1 0 2-.9 2-2v-.41C16.92 3.2 19 6.35 19 10c0 2.27-.92 4.33-2.1 5.39z"/>
+        <path fill="#C084FC" transform="translate(7, 7) scale(0.65)" d="M19 0h-18c-.55 0-1 .45-1 1v18c0 .55.45 1 1 1h18c.55 0 1-.45 1-1v-18c0-.55-.45-1-1-1zm-11 17h-3v-9h3v9zm-1.5-10.27c-.97 0-1.75-.79-1.75-1.76s.78-1.75 1.75-1.75 1.75.78 1.75 1.75-.78 1.76-1.75 1.76zm11.5 10.27h-3v-4.6c0-1.1-.02-2.52-1.54-2.52-1.54 0-1.77 1.2-1.77 2.44v4.68h-3v-9h2.88v1.23h.04c.4-.76 1.38-1.56 2.84-1.56 3.04 0 3.6 2 3.6 4.61v4.72z"/>
       </g>
-      <text x="20" y="80" font-family="'SF Mono', monospace" font-size="10" letter-spacing="1" fill="#64748B">DIGITAL SHOWCASE</text>
-      <text x="20" y="102" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Portfolio</text>
-      <text x="20" y="122" font-family="'SF Mono', monospace" font-size="10.5" fill="#C084FC">Dhanush.dev</text>
+      <text x="20" y="80" font-family="'SF Mono', monospace" font-size="10" letter-spacing="1" fill="#64748B">PROFESSIONAL</text>
+      <text x="20" y="102" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">LinkedIn</text>
+      <text x="20" y="122" font-family="'SF Mono', monospace" font-size="10.5" fill="#C084FC">Dhanush M D</text>
       <g transform="translate(20, 138)">
         <rect width="175" height="24" rx="4" fill="#1C0F33" stroke="#7928CA" stroke-width="0.8"/>
-        <text x="87" y="16" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#C084FC" font-weight="700">LAUNCH SHOWCASE &#x2197;</text>
+        <text x="87" y="16" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#C084FC" font-weight="700">CONNECT &#x2197;</text>
       </g>
     </g>
 
-    <!-- Card 4: Email Direct -->
+    <!-- Card 4: GitHub -->
     <g transform="translate(745, 134)">
       <rect width="215" height="180" rx="10" fill="url(#cnt-card-bg)" stroke="#10B981" stroke-width="1.2" stroke-opacity="0.4"/>
       <g transform="translate(20, 24)">
-        <circle cx="16" cy="16" r="16" fill="#0B231B" stroke="#10B981" stroke-width="1"/>
-        <path fill="#34D399" transform="translate(7, 7) scale(0.65)" d="M18 0H2C.9 0 0 .9 0 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V2c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V2l8 5 8-5v2z"/>
+        <circle cx="16" cy="16" r="16" fill="#091A2E" stroke="#10B981" stroke-width="1"/>
+        <path fill="#10B981" transform="translate(6, 6) scale(0.6)" d="M10 0C4.477 0 0 4.484 0 10.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0110 4.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.203 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.942.359.31.678.921.678 1.856 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0020 10.017C20 4.484 15.522 0 10 0z"/>
       </g>
-      <text x="20" y="80" font-family="'SF Mono', monospace" font-size="10" letter-spacing="1" fill="#64748B">DIRECT DISPATCH</text>
-      <text x="20" y="102" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Email</text>
-      <text x="20" y="122" font-family="'SF Mono', monospace" font-size="9" fill="#34D399">mddhanush6@gmail.com</text>
+      <text x="20" y="80" font-family="'SF Mono', monospace" font-size="10" letter-spacing="1" fill="#64748B">SOURCE VAULT</text>
+      <text x="20" y="102" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">GitHub</text>
+      <text x="20" y="122" font-family="'SF Mono', monospace" font-size="10.5" fill="#34D399">@Dhanush999-git</text>
       <g transform="translate(20, 138)">
-        <rect width="175" height="24" rx="4" fill="#0A241B" stroke="#10B981" stroke-width="0.8"/>
-        <text x="87" y="16" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#34D399" font-weight="700">DISPATCH EMAIL &#x2197;</text>
+        <rect width="175" height="24" rx="4" fill="#0A2033" stroke="#10B981" stroke-width="0.8"/>
+        <text x="87" y="16" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#10B981" font-weight="700">EXPLORE CODE &#x2197;</text>
       </g>
     </g>
 
@@ -110,7 +110,7 @@
         <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
       </circle>
       <text x="44" y="32" font-family="'SF Mono', monospace" font-size="11.5" letter-spacing="1" fill="#34D399" font-weight="700">CURRENT STATUS:</text>
-      <text x="176" y="32" font-family="'SF Mono', monospace" font-size="11.5" letter-spacing="0.8" fill="#E2E8F0">OPEN TO LEARNING, ENGINEERING OPPORTUNITIES &amp; COLLABORATIONS</text>
+      <text x="176" y="32" font-family="'SF Mono', monospace" font-size="11.5" letter-spacing="0.8" fill="#E2E8F0">OPEN TO SOFTWARE ENGINEERING &amp; AI/ML COLLABORATIONS</text>
     </g>
 
     <!-- Outer Card Border -->

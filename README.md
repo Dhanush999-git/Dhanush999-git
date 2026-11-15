@@ -5,12 +5,12 @@
 
 <div align="center">
 
-<!-- ═══ SECTION 01: CINEMATIC HERO ═══ -->
+<!-- ═══ SECTION 01: PROFILE IDENTITY ═══ -->
 <a href="https://github.com/Dhanush999-git" target="_blank" rel="noopener noreferrer">
   <img
     src="assets/hero/hero-banner.svg"
     width="100%"
-    alt="Dhanush M D — Full Stack Developer · AI/ML Engineer · Creative Technologist"
+    alt="Dhanush M D — Software Engineer | Full Stack Developer | AI/ML Enthusiast"
   />
 </a>
 
@@ -18,11 +18,7 @@
 
 <!-- ═══ HERO SOCIAL BADGES STRIP ═══ -->
 <p align="center">
-  <a href="https://github.com/Dhanush999-git/PORTFOLIO-WEBSITE" target="_blank" rel="noopener noreferrer">
-    <img src="assets/badges/portfolio.svg" height="42" alt="Portfolio — Dhanush Showcase"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dhanush-m-d" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/dhanush-m-d-3004472ab" target="_blank" rel="noopener noreferrer">
     <img src="assets/badges/linkedin.svg" height="42" alt="LinkedIn — Dhanush M D"/>
   </a>
   &nbsp;&nbsp;
@@ -40,7 +36,7 @@
 <!-- ═══ DYNAMIC TYPING TELEMETRY ANIMATION ═══ -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00F2FE&center=true&vCenter=true&width=1000&height=40&lines=Initializing+Dhanush.dev...;Loading+AI+Engineering+Environment...;Building+Full+Stack+Applications...;Developing+Intelligent+AI+Systems...;Verifying+Digital+Content+with+VeriFact...;Creating+Motion+Graphics+%26+Visual+Experiences...;System+Status%3A+ONLINE"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00F2FE&center=true&vCenter=true&width=1000&height=40&lines=Initializing+Dhanush.dev...;Software+Engineer+%7C+Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Modern+Web+Applications...;Developing+Intelligent+AI+Systems...;Verifying+Digital+Content+with+VeriFact...;System+Status%3A+ONLINE"
     width="100%"
     alt="Dynamic Telemetry Typing Animation"
   />
@@ -55,53 +51,29 @@
   <img
     src="assets/sections/about.svg"
     width="100%"
-    alt="01 / About Me — Dhanush M D Terminal Interface"
+    alt="02 / About Me — Dhanush M D Terminal Interface"
   />
 </div>
 
 <br/>
 
-<!-- ═══ SECTION 03: ENGINEERING PHILOSOPHY (THREE PILLARS) ═══ -->
+<!-- ═══ SECTION 03: EDUCATION (ACADEMIC BACKGROUND) ═══ -->
 <div align="center">
   <img
-    src="assets/sections/narrative.svg"
+    src="assets/sections/education.svg"
     width="100%"
-    alt="02 / Engineering Philosophy — Intelligent Systems, Full Stack Engineering, Creative Technology"
+    alt="03 / Education — Academic Background &amp; Engineering Foundation"
   />
 </div>
 
 <br/>
 
-<!-- ═══ SECTION 04: FLAGSHIP SYSTEM – VERIFACT ═══ -->
-<div align="center">
-  <a href="https://github.com/Dhanush999-git/MAJOR-PROJECT" target="_blank" rel="noopener noreferrer">
-    <img
-      src="assets/sections/verifact.svg"
-      width="100%"
-      alt="03 / Flagship Project — VeriFact: Multi-Modal AI Content Authenticity Verification System"
-    />
-  </a>
-</div>
-
-<br/>
-
-<!-- ═══ SECTION 05: OTHER SELECTED PROJECTS ═══ -->
-<div align="center">
-  <img
-    src="assets/sections/projects.svg"
-    width="100%"
-    alt="04 / Selected Projects — Dhanush AE, ID Card OCR, Agri-Vision AI"
-  />
-</div>
-
-<br/>
-
-<!-- ═══ SECTION 06: TECHNOLOGY ECOSYSTEM ═══ -->
+<!-- ═══ SECTION 04: TECHNICAL SKILLS ═══ -->
 <div align="center">
   <img
     src="assets/sections/toolkit.svg"
     width="100%"
-    alt="05 / Technology Ecosystem — Dual Engineering &amp; Creative Stack"
+    alt="04 / Technical Skills — Core Stack &amp; Platforms"
   />
 </div>
 
@@ -113,24 +85,86 @@
 
 | Layer / Domain | Core Technologies &amp; Frameworks | Architectural Context &amp; Implementation |
 |---|---|---|
-| **01 Programming Languages** | **Python (Primary)**, TypeScript, JavaScript, Java, HTML5, CSS3, SQL | Algorithmic pipelines, type-safe full stack development, asynchronous backends &amp; relational data queries |
-| **02 AI &amp; Machine Learning** | PyTorch, Transformers, VideoMAE, OpenCV, NLP, Computer Vision, NLI | Deepfake detection, temporal video classification, fact-checking NLI pipelines, and image artifact forensics |
-| **03 Frontend Development** | React.js, Next.js, Tailwind CSS, Vite, Framer Motion, HTML5, CSS3 | Glassmorphic design systems, forensic dashboards, micro-interactions, and high-performance client rendering |
-| **04 Backend &amp; Microservices** | Node.js, Express 5, FastAPI, REST APIs, Uvicorn, JWT Authentication | API gateway orchestration, high-throughput asynchronous inference microservices, and secure session management |
-| **05 Databases &amp; Auth** | MongoDB, PostgreSQL, MySQL, Supabase, Prisma ORM | Document storage for scan history, relational schemas for transactions, and Supabase auth integrations |
-| **06 Development &amp; DevOps** | Git, GitHub Actions, VS Code, Postman, Linux, CI/CD Workflows | Continuous integration, automated SVG contribution telemetry, code review discipline, and API verification |
-| **07 Creative Suite &amp; Motion** | Adobe After Effects, Adobe Premiere Pro, DaVinci Resolve | Motion graphics, custom video presets, cinematic editing, dynamic transitions, and commercial storefront assets |
+| **01 Programming Languages** | Python, Java, C, JavaScript, TypeScript | Algorithmic pipelines, type-safe full-stack development, asynchronous backends &amp; relational data queries |
+| **02 Frontend Development** | HTML5, CSS3, React.js, Next.js, Tailwind CSS | Responsive user interfaces, reusable components, interactive dashboards &amp; high-performance client rendering |
+| **03 Backend Development** | Node.js, Express.js, FastAPI, Flask, REST API Development | RESTful APIs, asynchronous microservices, request routing &amp; service orchestration |
+| **04 Databases** | MySQL, MongoDB, PostgreSQL, Supabase | Relational schemas, document storage, queries, views, indexing &amp; backend data persistence |
+| **05 Developer Tools &amp; Platforms** | Git, GitHub, Visual Studio Code, Antigravity | Version control workflows, collaborative software engineering &amp; modern development environments |
+| **06 Creative Tools** | Adobe After Effects, Adobe Premiere Pro | Motion graphics, visual asset production, sequence assembly &amp; high-fidelity media workflows |
 
 </details>
 
 <br/>
 
-<!-- ═══ SECTION 07: DEVELOPMENT ACTIVITY & COMMIT LOG ═══ -->
+<!-- ═══ LOOPING VISUAL ═══ -->
+<div align="center">
+  <img
+    src="assets/readme-loop.gif"
+    width="100%"
+    alt=""
+  />
+</div>
+
+<br/>
+
+<!-- ═══ SECTION 05: PROJECTS — VERIFACT ═══ -->
+<div align="center">
+  <a href="https://github.com/Dhanush999-git/MAJOR-PROJECT" target="_blank" rel="noopener noreferrer">
+    <img
+      src="assets/sections/verifact.svg"
+      width="100%"
+      alt="05 / Flagship Project — VeriFact: AI-Powered Multi-Modal Content Authenticity Verification System"
+    />
+  </a>
+</div>
+
+<br/>
+
+<!-- ═══ SECTION 06: PROFESSIONAL EXPERIENCE ═══ -->
+<div align="center">
+  <img
+    src="assets/sections/experience.svg"
+    width="100%"
+    alt="06 / Professional Experience — Artificial Intelligence Intern at CODSOFT"
+  />
+</div>
+
+<br/>
+
+<!-- ═══ SECTION 07: CERTIFICATIONS & CREDENTIALS ═══ -->
+<div align="center">
+  <img
+    src="assets/sections/certifications.svg"
+    width="100%"
+    alt="07 / Certifications &amp; Credentials — Verified Technical Credentials"
+  />
+</div>
+
+<br/>
+
+<details>
+<summary><b style="color: #10B981; cursor: pointer;">View Additional Certifications &amp; Credentials (Expand Table)</b></summary>
+<br/>
+
+| Organization / Platform | Certification &amp; Credential | Year &amp; Details |
+|---|---|---|
+| **Infosys Springboard** | Cloud, Livelihood | 2026 · Grade A+ |
+| **Infosys Springboard** | Software Engineering and Agile | 2025 |
+| **NoSQL Systems** | NoSQL MongoDB | Document schema design, aggregation pipelines &amp; indexing |
+| **Distributed Systems** | Blockchain Virtual Internship | Decentralized protocols, consensus algorithms &amp; smart contracts |
+| **Security &amp; Networks** | Networking for Cyber Professionals | OSI layer routing, packet flow inspection &amp; perimeter defense |
+| **Cyber Defense** | Fundamentals of Cybersecurity | Threat modeling, vulnerability analysis &amp; security hygiene |
+
+</details>
+
+<br/>
+
+<!-- ═══ SECTION 08: GITHUB STATISTICS & ACTIVITY ═══ -->
 <div align="center">
   <img
     src="assets/sections/activity-header.svg"
     width="100%"
-    alt="06 / Development Activity — Real-Time GitHub Activity"
+    alt="08 / Development Activity — Real-Time GitHub Activity"
   />
 </div>
 
@@ -179,41 +213,12 @@
 
 <br/>
 
-<!-- ═══ SECTION 08: CERTIFICATIONS & PROFESSIONAL DEVELOPMENT ═══ -->
-<div align="center">
-  <img
-    src="assets/sections/certifications.svg"
-    width="100%"
-    alt="07 / Certifications &amp; Professional Development"
-  />
-</div>
-
-<br/>
-
-<details>
-<summary><b style="color: #10B981; cursor: pointer;">View Verified Credential List &amp; Competency Focus (Expand Table)</b></summary>
-<br/>
-
-| Domain Focus | Credential / Specialization | Core Competencies &amp; Applied Work |
-|---|---|---|
-| **Database Architecture** | SQL &amp; DBMS with Project | Relational schema design, entity modeling, complex SQL queries, views &amp; indexing |
-| **Artificial Intelligence** | AI Internship – CODSOFT | Deep learning workflows, NLP conversational bots, classification &amp; recommendation models |
-| **Full Stack Engineering** | Python Full Stack Internship | End-to-end web architecture, API gateway routing, frontend state management &amp; deployment |
-| **NoSQL Systems** | NoSQL MongoDB | Document schema design, aggregation pipelines, performance indexing &amp; high-throughput queries |
-| **Distributed Systems** | Blockchain Virtual Internship | Decentralized protocols, consensus algorithms, cryptographic verification &amp; distributed ledgers |
-| **Security &amp; Networks** | Networking for Cyber Professionals | OSI layer routing, packet flow inspection, perimeter defense &amp; network security protocols |
-| **Cyber Defense** | Fundamentals of Cybersecurity | Threat modeling, vulnerability analysis, encryption standards &amp; defensive security hygiene |
-
-</details>
-
-<br/>
-
-<!-- ═══ SECTION 09: CONNECTIVITY HUB ═══ -->
+<!-- ═══ SECTION 09: SOCIAL CONNECTIONS ═══ -->
 <div align="center">
   <img
     src="assets/sections/connect.svg"
     width="100%"
-    alt="08 / Connectivity Hub — Connect with Dhanush M D"
+    alt="09 / Social Connections — Connect with Dhanush M D"
   />
 </div>
 
@@ -224,27 +229,55 @@
     <img src="https://img.shields.io/badge/EMAIL-mddhanush6%40gmail.com-00F2FE?style=for-the-badge&labelColor=080C14&color=00F2FE&logo=gmail&logoColor=080C14" alt="Email Direct"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dhanush-m-d" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:mddhanush6@outlook.com">
+    <img src="https://img.shields.io/badge/OUTLOOK-mddhanush6%40outlook.com-38BDF8?style=for-the-badge&labelColor=080C14&color=38BDF8&logo=microsoftoutlook&logoColor=FFFFFF" alt="Outlook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dhanush-m-d-3004472ab" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LINKEDIN-Dhanush--M--D-7928CA?style=for-the-badge&labelColor=080C14&color=7928CA&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn Profile"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Dhanush999-git" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GITHUB-Dhanush999--git-10B981?style=for-the-badge&labelColor=080C14&color=10B981&logo=github&logoColor=080C14" alt="GitHub Profile"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/_dhanushmd" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/INSTAGRAM-%40_dhanushmd-E1306C?style=for-the-badge&labelColor=080C14&color=E1306C&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Dhanush999-git/PORTFOLIO-WEBSITE" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Dhanush.dev-38BDF8?style=for-the-badge&labelColor=080C14&color=38BDF8&logo=vercel&logoColor=080C14" alt="Interactive Portfolio"/>
+  <a href="https://t.me/Dhanush_MD" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TELEGRAM-%40Dhanush_MD-26A5E4?style=for-the-badge&labelColor=080C14&color=26A5E4&logo=telegram&logoColor=FFFFFF" alt="Telegram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/mddhanush6" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HACKERRANK-mddhanush6-2EC866?style=for-the-badge&labelColor=080C14&color=2EC866&logo=hackerrank&logoColor=FFFFFF" alt="HackerRank"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/dhanuxh_md" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LEETCODE-dhanuxh_md-FFA116?style=for-the-badge&labelColor=080C14&color=FFA116&logo=leetcode&logoColor=FFFFFF" alt="LeetCode"/>
   </a>
 </p>
 
 <br/>
 
-<!-- ═══ SECTION 10: SIGNATURE FOOTER ═══ -->
+<!-- ═══ SECTION 10: ENGINEERING PHILOSOPHY (THREE PILLARS) ═══ -->
+<div align="center">
+  <img
+    src="assets/sections/narrative.svg"
+    width="100%"
+    alt="10 / Engineering Philosophy — Build With Purpose, Engineer With Precision, Learn Explore Innovate"
+  />
+</div>
+
+<br/>
+
+<!-- ═══ SIGNATURE FOOTER ═══ -->
 <div align="center">
   <img
     src="assets/sections/footer.svg"
     width="100%"
-    alt="Dhanush M D — Engineering intelligence. Building experiences. Creating impact."
+    alt="Dhanush M D — Great engineering is not just about writing code. It's about understanding problems, designing thoughtful solutions, and continuously improving them."
   />
 </div>
-

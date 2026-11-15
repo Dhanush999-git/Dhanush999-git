@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="1000" height="520" role="img" aria-label="About Dhanush M D - Terminal Interface">
-  <title>01 / ABOUT ME — Developer Terminal</title>
+  <title>02 / ABOUT ME — Developer Terminal</title>
   <defs>
     <linearGradient id="abt-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0B111E"/>
@@ -25,7 +25,6 @@
     </filter>
 
     <clipPath id="abt-card"><rect width="1000" height="520" rx="16"/></clipPath>
-    <clipPath id="term-clip"><rect width="630" height="395" rx="8"/></clipPath>
   </defs>
 
   <g clip-path="url(#abt-card)">
@@ -34,7 +33,7 @@
 
     <!-- Section Header Bar -->
     <g transform="translate(40, 42)">
-      <text x="0" y="0" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="12" letter-spacing="3" fill="#00F2FE" font-weight="700">01 / ABOUT ME</text>
+      <text x="0" y="0" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="12" letter-spacing="3" fill="#00F2FE" font-weight="700">02 / ABOUT ME</text>
       <text x="920" y="0" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="11" letter-spacing="2" fill="#64748B">PROFILE IDENTITY // WHOAMI</text>
       <line x1="0" y1="14" x2="920" y2="14" stroke="#1E293B" stroke-width="1"/>
     </g>
@@ -61,30 +60,30 @@
       <!-- Command 1: whoami -->
       <text x="24" y="66" font-family="'SF Mono', monospace" font-size="12.5" fill="#00F2FE" font-weight="600">dhanush@developer:~$ <tspan fill="#FFFFFF">whoami</tspan></text>
       <text x="24" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Dhanush M D</text>
-      <text x="24" y="112" font-family="'SF Mono', monospace" font-size="11.5" fill="#38BDF8">Full Stack Developer | AI/ML Engineer | Creative Technologist</text>
+      <text x="24" y="112" font-family="'SF Mono', monospace" font-size="11.5" fill="#38BDF8">Software Engineer | Full Stack Developer | AI/ML Enthusiast</text>
 
       <!-- Command 2: cat interests.txt -->
-      <text x="24" y="148" font-family="'SF Mono', monospace" font-size="12.5" fill="#00F2FE" font-weight="600">dhanush@developer:~$ <tspan fill="#FFFFFF">cat interests.txt</tspan></text>
-      <g transform="translate(24, 168)" font-family="'SF Mono', monospace" font-size="11" fill="#E2E8F0">
-        <text x="0" y="0"><tspan fill="#10B981">&#x25B8;</tspan> Full Stack Development &amp; Web Applications</text>
-        <text x="0" y="18"><tspan fill="#10B981">&#x25B8;</tspan> Artificial Intelligence &amp; Machine Learning</text>
-        <text x="0" y="36"><tspan fill="#10B981">&#x25B8;</tspan> Multi-Modal Verification &amp; Computer Vision</text>
-        <text x="0" y="54"><tspan fill="#10B981">&#x25B8;</tspan> Python Architecture &amp; Scalable REST APIs</text>
-        <text x="0" y="72"><tspan fill="#10B981">&#x25B8;</tspan> Video Editing, Motion Graphics &amp; Creative Tech</text>
+      <text x="24" y="146" font-family="'SF Mono', monospace" font-size="12.5" fill="#00F2FE" font-weight="600">dhanush@developer:~$ <tspan fill="#FFFFFF">cat about.txt</tspan></text>
+      <g transform="translate(24, 166)" font-family="'SF Mono', monospace" font-size="10.8" fill="#E2E8F0">
+        <text x="0" y="0"><tspan fill="#10B981">&#x25B8;</tspan> Software Engineer interested in Full Stack Dev &amp; Artificial Intelligence</text>
+        <text x="0" y="18"><tspan fill="#10B981">&#x25B8;</tspan> Passionate about building modern web applications &amp; intelligent systems</text>
+        <text x="0" y="36"><tspan fill="#10B981">&#x25B8;</tspan> Interested in transforming ideas into functional software products</text>
+        <text x="0" y="54"><tspan fill="#10B981">&#x25B8;</tspan> Focused on clean, maintainable code and practical problem-solving</text>
+        <text x="0" y="72"><tspan fill="#10B981">&#x25B8;</tspan> Interested in backend architecture, APIs, databases &amp; modern web tech</text>
       </g>
 
       <!-- Command 3: cat philosophy.txt -->
-      <text x="24" y="278" font-family="'SF Mono', monospace" font-size="12.5" fill="#00F2FE" font-weight="600">dhanush@developer:~$ <tspan fill="#FFFFFF">cat philosophy.txt</tspan></text>
-      <text x="24" y="302" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-style="italic" font-size="13" fill="#94A3B8">"Building intelligent systems, engineering meaningful digital experiences, and</text>
-      <text x="24" y="322" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-style="italic" font-size="13" fill="#94A3B8">transforming ideas into reality."</text>
+      <text x="24" y="274" font-family="'SF Mono', monospace" font-size="12.5" fill="#00F2FE" font-weight="600">dhanush@developer:~$ <tspan fill="#FFFFFF">cat philosophy.txt</tspan></text>
+      <text x="24" y="296" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-style="italic" font-size="12.5" fill="#94A3B8">"Great engineering is not just about writing code. It's about understanding problems,"</text>
+      <text x="24" y="316" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-style="italic" font-size="12.5" fill="#94A3B8">"designing thoughtful solutions, and continuously improving them."</text>
 
       <!-- Command 4: echo $STATUS -->
-      <text x="24" y="356" font-family="'SF Mono', monospace" font-size="12.5" fill="#00F2FE" font-weight="600">dhanush@developer:~$ <tspan fill="#FFFFFF">echo $STATUS</tspan></text>
-      <rect x="24" y="368" width="310" height="22" rx="4" fill="#0E231F" stroke="#10B981" stroke-width="0.8"/>
-      <circle cx="34" cy="379" r="3.5" fill="#10B981" filter="url(#abt-glow)">
+      <text x="24" y="352" font-family="'SF Mono', monospace" font-size="12.5" fill="#00F2FE" font-weight="600">dhanush@developer:~$ <tspan fill="#FFFFFF">echo $STATUS</tspan></text>
+      <rect x="24" y="364" width="450" height="22" rx="4" fill="#0E231F" stroke="#10B981" stroke-width="0.8"/>
+      <circle cx="34" cy="375" r="3.5" fill="#10B981" filter="url(#abt-glow)">
         <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
       </circle>
-      <text x="44" y="383" font-family="'SF Mono', monospace" font-size="11" fill="#34D399" font-weight="700">CONTINUOUSLY LEARNING AND BUILDING.</text>
+      <text x="44" y="379" font-family="'SF Mono', monospace" font-size="10" fill="#34D399" font-weight="700">CONTINUOUSLY LEARNING AND EXPLORING EMERGING TECHNOLOGIES.</text>
     </g>
 
     <!-- RIGHT: Telemetry & Core Disciplines Card (270x400) -->
@@ -102,23 +101,23 @@
       <g transform="translate(20, 64)" font-family="'SF Mono', monospace">
         <!-- Item 1 -->
         <text x="0" y="0" font-size="9.5" fill="#64748B" letter-spacing="1">LOCATION</text>
-        <text x="0" y="18" font-size="12" fill="#E2E8F0" font-weight="600">India · Remote</text>
+        <text x="0" y="18" font-size="12" fill="#E2E8F0" font-weight="600">Karnataka, India</text>
 
         <!-- Item 2 -->
-        <text x="0" y="48" font-size="9.5" fill="#64748B" letter-spacing="1">CORE FOCUS</text>
-        <text x="0" y="66" font-size="12" fill="#00F2FE" font-weight="600">AI / ML + Full Stack</text>
+        <text x="0" y="48" font-size="9.5" fill="#64748B" letter-spacing="1">CORE ROLE</text>
+        <text x="0" y="66" font-size="12" fill="#00F2FE" font-weight="600">Software Engineer</text>
 
         <!-- Item 3 -->
-        <text x="0" y="96" font-size="9.5" fill="#64748B" letter-spacing="1">FLAGSHIP SYSTEM</text>
-        <text x="0" y="114" font-size="12" fill="#34D399" font-weight="600">VeriFact Verification</text>
+        <text x="0" y="96" font-size="9.5" fill="#64748B" letter-spacing="1">FOCUS DOMAIN</text>
+        <text x="0" y="114" font-size="12" fill="#38BDF8" font-weight="600">Full Stack &amp; AI/ML</text>
 
         <!-- Item 4 -->
-        <text x="0" y="144" font-size="9.5" fill="#64748B" letter-spacing="1">CREATIVE VENTURE</text>
-        <text x="0" y="162" font-size="12" fill="#C084FC" font-weight="600">Dhanush AE Store</text>
+        <text x="0" y="144" font-size="9.5" fill="#64748B" letter-spacing="1">FLAGSHIP PROJECT</text>
+        <text x="0" y="162" font-size="12" fill="#34D399" font-weight="600">VeriFact Verification</text>
 
         <!-- Item 5 -->
         <text x="0" y="192" font-size="9.5" fill="#64748B" letter-spacing="1">PRIMARY RUNTIMES</text>
-        <text x="0" y="210" font-size="12" fill="#E2E8F0" font-weight="600">Python 3 · Node · Vite</text>
+        <text x="0" y="210" font-size="12" fill="#E2E8F0" font-weight="600">Python · Node.js · React</text>
       </g>
 
       <!-- Bottom Status Pill in Card -->
@@ -126,7 +125,7 @@
         <rect width="230" height="52" rx="6" fill="#070D18" stroke="#1E293B" stroke-width="1"/>
         <text x="14" y="20" font-family="'SF Mono', monospace" font-size="9.5" fill="#94A3B8">COLLABORATION STATUS</text>
         <circle cx="20" cy="36" r="3.5" fill="#10B981" filter="url(#abt-glow)"/>
-        <text x="30" y="40" font-family="'SF Mono', monospace" font-size="11" fill="#34D399" font-weight="700">Open to Projects</text>
+        <text x="30" y="40" font-family="'SF Mono', monospace" font-size="11" fill="#34D399" font-weight="700">Open to Opportunities</text>
       </g>
     </g>
 

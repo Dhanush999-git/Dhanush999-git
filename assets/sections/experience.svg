@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-label="Professional Experience - Artificial Intelligence Intern at CODSOFT">
+  <title>06 / PROFESSIONAL EXPERIENCE — CODSOFT</title>
+  <defs>
+    <linearGradient id="exp-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080E1A"/>
+      <stop offset="100%" stop-color="#04060C"/>
+    </linearGradient>
+
+    <linearGradient id="exp-card-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F182A"/>
+      <stop offset="100%" stop-color="#080E18"/>
+    </linearGradient>
+
+    <filter id="exp-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="exp-card"><rect width="1000" height="380" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#exp-card)">
+    <!-- Base Canvas -->
+    <rect width="1000" height="380" fill="url(#exp-bg)"/>
+
+    <!-- Section Header Bar -->
+    <g transform="translate(40, 42)">
+      <text x="0" y="0" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="12" letter-spacing="3" fill="#00F2FE" font-weight="700">06 / PROFESSIONAL EXPERIENCE</text>
+      <text x="920" y="0" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="11" letter-spacing="2" fill="#64748B">INDUSTRY PRACTICE // AI/ML</text>
+      <line x1="0" y1="14" x2="920" y2="14" stroke="#1E293B" stroke-width="1"/>
+    </g>
+
+    <g transform="translate(40, 84)">
+      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#E2E8F0">Applied Industry Experience</text>
+      <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#94A3B8">Hands-on practical development of artificial intelligence solutions, machine learning models, and real-world implementations.</text>
+    </g>
+
+    <!-- MAIN EXPERIENCE CARD (920 x 216) -->
+    <g transform="translate(40, 134)">
+      <rect width="920" height="216" rx="12" fill="url(#exp-card-bg)" stroke="#7928CA" stroke-width="1.2" stroke-opacity="0.5"/>
+
+      <!-- Header Row inside Card -->
+      <g transform="translate(24, 24)">
+        <!-- Role & Company -->
+        <text x="0" y="16" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">Artificial Intelligence Intern</text>
+        <text x="312" y="16" font-family="'SF Mono', monospace" font-size="16" font-weight="700" fill="#C084FC">|  CODSOFT</text>
+
+        <!-- Right Duration Badge -->
+        <g transform="translate(620, -4)">
+          <rect width="252" height="28" rx="6" fill="#1C0E36" stroke="#7928CA" stroke-width="0.8"/>
+          <circle cx="16" cy="14" r="3.5" fill="#10B981" filter="url(#exp-glow)">
+            <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+          </circle>
+          <text x="28" y="18" font-family="'SF Mono', monospace" font-size="10.5" fill="#E2E8F0" font-weight="600">SEP 20, 2025 – OCT 20, 2025</text>
+        </g>
+      </g>
+
+      <line x1="24" y1="58" x2="896" y2="58" stroke="#1E293B" stroke-width="1"/>
+
+      <!-- Responsibilities bullet points -->
+      <g transform="translate(24, 84)" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#E2E8F0">
+        <!-- Bullet 1 -->
+        <text x="0" y="0"><tspan fill="#00F2FE" font-family="'SF Mono', monospace">&#x25B8;</tspan> Developed and implemented AI-based solutions using Python and machine learning libraries.</text>
+        <!-- Bullet 2 -->
+        <text x="0" y="24"><tspan fill="#00F2FE" font-family="'SF Mono', monospace">&#x25B8;</tspan> Worked on practical AI tasks involving model development and problem-solving.</text>
+        <!-- Bullet 3 -->
+        <text x="0" y="48"><tspan fill="#00F2FE" font-family="'SF Mono', monospace">&#x25B8;</tspan> Strengthened technical and analytical skills through hands-on assignments.</text>
+        <!-- Bullet 4 -->
+        <text x="0" y="72"><tspan fill="#00F2FE" font-family="'SF Mono', monospace">&#x25B8;</tspan> Collaborated effectively and delivered assigned tasks within given timelines.</text>
+      </g>
+
+      <!-- Bottom Tech Pills Row -->
+      <g transform="translate(24, 178)">
+        <rect x="0" y="0" width="76" height="22" rx="4" fill="#0A1E33" stroke="#0284C7" stroke-width="0.8"/>
+        <text x="38" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#38BDF8">Python</text>
+        <rect x="84" y="0" width="138" height="22" rx="4" fill="#1C1033" stroke="#7928CA" stroke-width="0.8"/>
+        <text x="153" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#C084FC">Machine Learning</text>
+        <rect x="230" y="0" width="144" height="22" rx="4" fill="#1C1033" stroke="#7928CA" stroke-width="0.8"/>
+        <text x="302" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#C084FC">Model Development</text>
+        <rect x="382" y="0" width="130" height="22" rx="4" fill="#0A241F" stroke="#10B981" stroke-width="0.8"/>
+        <text x="447" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#34D399">Problem Solving</text>
+      </g>
+    </g>
+
+    <!-- Outer Card Border -->
+    <rect x="0.5" y="0.5" width="999" height="379" rx="16" fill="none" stroke="#1E293B" stroke-width="1"/>
+  </g>
+</svg>

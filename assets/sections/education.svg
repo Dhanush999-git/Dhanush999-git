@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" width="1000" height="480" role="img" aria-label="Education and Academic Background">
+  <title>03 / EDUCATION &amp; ACADEMIC BACKGROUND</title>
+  <defs>
+    <linearGradient id="edu-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080E1B"/>
+      <stop offset="100%" stop-color="#04070D"/>
+    </linearGradient>
+
+    <linearGradient id="c-be-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0E1E33"/>
+      <stop offset="100%" stop-color="#08101E"/>
+    </linearGradient>
+
+    <linearGradient id="c-puc-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#190F2E"/>
+      <stop offset="100%" stop-color="#0D0719"/>
+    </linearGradient>
+
+    <linearGradient id="c-sslc-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0E241E"/>
+      <stop offset="100%" stop-color="#07130F"/>
+    </linearGradient>
+
+    <filter id="edu-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="edu-card"><rect width="1000" height="480" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#edu-card)">
+    <!-- Base Canvas -->
+    <rect width="1000" height="480" fill="url(#edu-bg)"/>
+
+    <!-- Section Header Bar -->
+    <g transform="translate(40, 42)">
+      <text x="0" y="0" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="12" letter-spacing="3" fill="#00F2FE" font-weight="700">03 / EDUCATION</text>
+      <text x="920" y="0" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="11" letter-spacing="2" fill="#64748B">ACADEMIC FOUNDATION // VTU &amp; STATE BOARDS</text>
+      <line x1="0" y1="14" x2="920" y2="14" stroke="#1E293B" stroke-width="1"/>
+    </g>
+
+    <g transform="translate(40, 84)">
+      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#E2E8F0">Academic Background &amp; Engineering Education</text>
+      <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#94A3B8">Core academic milestones across computer science, engineering principles, and pre-university education.</text>
+    </g>
+
+    <!-- 3 EDUCATION CARDS (288px width each) -->
+    <!-- CARD 01: B.E. (Bachelor of Engineering) -->
+    <g transform="translate(40, 134)">
+      <rect width="288" height="306" rx="12" fill="url(#c-be-bg)" stroke="#00F2FE" stroke-width="1.2" stroke-opacity="0.5"/>
+      <g transform="translate(20, 24)">
+        <rect width="98" height="22" rx="4" fill="#091829" stroke="#00F2FE" stroke-width="0.8"/>
+        <text x="49" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#00F2FE" font-weight="700">DEGREE · B.E.</text>
+        <circle cx="236" cy="11" r="4" fill="#10B981" filter="url(#edu-glow)">
+          <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+      <text x="20" y="78" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="16.5" font-weight="800" fill="#FFFFFF">B.E. – Computer Science</text>
+      <text x="20" y="98" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700" fill="#38BDF8">&amp; Engineering</text>
+      <line x1="20" y1="112" x2="268" y2="112" stroke="#1E293B" stroke-width="1"/>
+
+      <g transform="translate(20, 134)" font-family="-apple-system, BlinkMacSystemFont, sans-serif">
+        <text x="0" y="0" font-size="11" fill="#64748B" font-family="'SF Mono', monospace" letter-spacing="1">INSTITUTION</text>
+        <text x="0" y="18" font-size="13" font-weight="600" fill="#E2E8F0">Srinivas Institute of</text>
+        <text x="0" y="34" font-size="13" font-weight="600" fill="#E2E8F0">Technology, Mangalore</text>
+        <text x="0" y="50" font-size="11.5" fill="#94A3B8">Karnataka, India</text>
+
+        <text x="0" y="78" font-size="11" fill="#64748B" font-family="'SF Mono', monospace" letter-spacing="1">AFFILIATION</text>
+        <text x="0" y="96" font-size="12" font-weight="600" fill="#E2E8F0">Visvesvaraya Technological</text>
+        <text x="0" y="112" font-size="12" font-weight="600" fill="#38BDF8">University (VTU)</text>
+      </g>
+
+      <g transform="translate(20, 266)">
+        <rect width="248" height="26" rx="4" fill="#0B1B2B" stroke="#00F2FE" stroke-width="0.8"/>
+        <text x="124" y="17" text-anchor="middle" font-family="'SF Mono', monospace" font-size="10" fill="#00F2FE" font-weight="700">2023 – SEP 2027 (EXPECTED)</text>
+      </g>
+    </g>
+
+    <!-- CARD 02: PUC - 12TH -->
+    <g transform="translate(356, 134)">
+      <rect width="288" height="306" rx="12" fill="url(#c-puc-bg)" stroke="#7928CA" stroke-width="1.2" stroke-opacity="0.5"/>
+      <g transform="translate(20, 24)">
+        <rect width="98" height="22" rx="4" fill="#1C0E36" stroke="#7928CA" stroke-width="0.8"/>
+        <text x="49" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#C084FC" font-weight="700">PUC · 12TH</text>
+        <circle cx="236" cy="11" r="4" fill="#10B981"/>
+      </g>
+
+      <text x="20" y="78" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="16.5" font-weight="800" fill="#FFFFFF">PUC – 12th Grade</text>
+      <text x="20" y="98" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700" fill="#C084FC">Pre-University Education</text>
+      <line x1="20" y1="112" x2="268" y2="112" stroke="#1E293B" stroke-width="1"/>
+
+      <g transform="translate(20, 134)" font-family="-apple-system, BlinkMacSystemFont, sans-serif">
+        <text x="0" y="0" font-size="11" fill="#64748B" font-family="'SF Mono', monospace" letter-spacing="1">INSTITUTION</text>
+        <text x="0" y="18" font-size="13" font-weight="600" fill="#E2E8F0">Pragna PU College</text>
+        <text x="0" y="34" font-size="12" fill="#94A3B8">Sakleshpur, Karnataka</text>
+
+        <text x="0" y="78" font-size="11" fill="#64748B" font-family="'SF Mono', monospace" letter-spacing="1">EXAMINATION BOARD</text>
+        <text x="0" y="96" font-size="12" font-weight="600" fill="#E2E8F0">Karnataka School Examination</text>
+        <text x="0" y="112" font-size="12" font-weight="600" fill="#C084FC">&amp; Assessment Board (KSEAB)</text>
+      </g>
+
+      <g transform="translate(20, 266)">
+        <rect width="248" height="26" rx="4" fill="#1A0D30" stroke="#7928CA" stroke-width="0.8"/>
+        <text x="124" y="17" text-anchor="middle" font-family="'SF Mono', monospace" font-size="10" fill="#C084FC" font-weight="700">2023 · COMPLETED</text>
+      </g>
+    </g>
+
+    <!-- CARD 03: SSLC - 10TH -->
+    <g transform="translate(672, 134)">
+      <rect width="288" height="306" rx="12" fill="url(#c-sslc-bg)" stroke="#10B981" stroke-width="1.2" stroke-opacity="0.5"/>
+      <g transform="translate(20, 24)">
+        <rect width="98" height="22" rx="4" fill="#0A241F" stroke="#10B981" stroke-width="0.8"/>
+        <text x="49" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9.5" fill="#34D399" font-weight="700">SSLC · 10TH</text>
+        <circle cx="236" cy="11" r="4" fill="#10B981"/>
+      </g>
+
+      <text x="20" y="78" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="16.5" font-weight="800" fill="#FFFFFF">SSLC – 10th Grade</text>
+      <text x="20" y="98" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700" fill="#34D399">Secondary Education</text>
+      <line x1="20" y1="112" x2="268" y2="112" stroke="#1E293B" stroke-width="1"/>
+
+      <g transform="translate(20, 134)" font-family="-apple-system, BlinkMacSystemFont, sans-serif">
+        <text x="0" y="0" font-size="11" fill="#64748B" font-family="'SF Mono', monospace" letter-spacing="1">INSTITUTION</text>
+        <text x="0" y="18" font-size="13" font-weight="600" fill="#E2E8F0">Pioneer English Medium</text>
+        <text x="0" y="34" font-size="13" font-weight="600" fill="#E2E8F0">Public School</text>
+        <text x="0" y="50" font-size="11.5" fill="#94A3B8">Sakleshpur, Karnataka</text>
+
+        <text x="0" y="78" font-size="11" fill="#64748B" font-family="'SF Mono', monospace" letter-spacing="1">EXAMINATION BOARD</text>
+        <text x="0" y="96" font-size="12" font-weight="600" fill="#34D399">KSEEB</text>
+      </g>
+
+      <g transform="translate(20, 266)">
+        <rect width="248" height="26" rx="4" fill="#0C201C" stroke="#10B981" stroke-width="0.8"/>
+        <text x="124" y="17" text-anchor="middle" font-family="'SF Mono', monospace" font-size="10" fill="#34D399" font-weight="700">2021 · COMPLETED</text>
+      </g>
+    </g>
+
+    <!-- Outer Card Border -->
+    <rect x="0.5" y="0.5" width="999" height="479" rx="16" fill="none" stroke="#1E293B" stroke-width="1"/>
+  </g>
+</svg>

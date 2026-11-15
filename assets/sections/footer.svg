@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-label="Dhanush M D - Signature Footer">
-  <title>Dhanush M D — Engineering Intelligence. Building Experiences. Creating Impact.</title>
+  <title>Dhanush M D — Software Engineer | Full Stack Developer | AI/ML Enthusiast</title>
   <defs>
     <linearGradient id="ftr-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#080D18"/>
@@ -33,8 +33,8 @@
     <line x1="100" y1="36" x2="900" y2="36" stroke="url(#ftr-line)" stroke-width="1.5" filter="url(#ftr-glow)"/>
 
     <!-- Signature Quote -->
-    <text x="500" y="82" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-style="italic" font-size="18" fill="#E2E8F0">
-      "Engineering intelligence. Building experiences. Creating impact."
+    <text x="500" y="82" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-style="italic" font-size="16" fill="#E2E8F0">
+      "Great engineering is not just about writing code. It's about understanding problems, designing thoughtful solutions, and continuously improving them."
     </text>
 
     <!-- Sign-off Name -->
@@ -44,7 +44,7 @@
 
     <!-- Subtitle Meta -->
     <text x="500" y="156" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="11.5" letter-spacing="2.5" fill="#00F2FE" font-weight="600">
-      FULL STACK · AI/ML ENGINEER · CREATIVE TECHNOLOGIST
+      SOFTWARE ENGINEER · FULL STACK DEVELOPER · AI/ML ENTHUSIAST
     </text>
 
     <!-- Copyright / Node Identity -->
