@@ -290,8 +290,8 @@
     <img src="https://img.shields.io/badge/TELEGRAM-%40Dhanush_MD-26A5E4?style=for-the-badge&labelColor=080C14&color=26A5E4&logo=telegram&logoColor=FFFFFF" alt="Telegram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/mddhanush6" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/HACKERRANK-mddhanush6-2EC866?style=for-the-badge&labelColor=080C14&color=2EC866&logo=hackerrank&logoColor=FFFFFF" alt="HackerRank"/>
+  <a href="https://www.hackerrank.com/profile/mddhanush" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HACKERRANK-mddhanush-2EC866?style=for-the-badge&labelColor=080C14&color=2EC866&logo=hackerrank&logoColor=FFFFFF" alt="HackerRank"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/dhanuxh_md" target="_blank" rel="noopener noreferrer">
