@@ -48,8 +48,7 @@
 
     <!-- Supporting Statement Quote -->
     <g transform="translate(40, 84)">
-      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-style="italic" fill="#E2E8F0">"Great engineering is not just about writing code. It's about understanding problems,"</text>
-      <text x="0" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-style="italic" font-size="15" fill="#38BDF8">"designing thoughtful solutions, and continuously improving them."</text>
+      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-style="italic" fill="#E2E8F0">"Engineering is about solving problems, designing with purpose, and improving every day."</text>
     </g>
 
     <!-- THREE PILLAR CARDS -->

@@ -35,36 +35,94 @@
 
     <g transform="translate(40, 84)">
       <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#E2E8F0">Technical Certifications &amp; Credentials</text>
-      <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#94A3B8">Showcasing verified credentials across database systems, full stack development, data analytics, and artificial intelligence.</text>
+      <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#94A3B8">Showcasing verified credentials across process intelligence, data engineering, cloud architecture, and data science.</text>
     </g>
 
     <!-- 6 CERTIFICATION CARDS (2 rows x 3 columns of 288px) -->
     <!-- ROW 1 -->
-    <!-- Card 1: SQL and DBMS with Project (2026) -->
+    <!-- Card 1: AI in Process Intelligence (Aug–Oct 2026) -->
     <g transform="translate(40, 134)">
       <rect width="288" height="154" rx="10" fill="url(#c-card-bg)" stroke="#00F2FE" stroke-width="1.2" stroke-opacity="0.6"/>
       <g transform="translate(18, 20)">
         <rect width="138" height="20" rx="4" fill="#0A202A" stroke="#00F2FE" stroke-width="0.8"/>
-        <text x="69" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9" fill="#00F2FE" font-weight="700">AICTE · EDUSKILLS</text>
+        <text x="69" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9" fill="#00F2FE" font-weight="700">CELONIS · AICTE</text>
         <circle cx="236" cy="10" r="4" fill="#10B981" filter="url(#c-glow)">
           <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
         </circle>
       </g>
-      <text x="18" y="68" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="700" fill="#FFFFFF">SQL &amp; DBMS with Project</text>
-      <text x="18" y="88" font-family="'SF Mono', monospace" font-size="10" fill="#38BDF8">Virtual Internship · Databases</text>
+      <text x="18" y="68" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="700" fill="#FFFFFF">AI in Process Intelligence</text>
+      <text x="18" y="88" font-family="'SF Mono', monospace" font-size="10" fill="#38BDF8">Virtual Internship · Celonis</text>
       <g transform="translate(18, 108)" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#94A3B8">
-        <text x="0" y="0">Relational schema design, entity modeling,</text>
-        <text x="0" y="16">complex SQL queries, indexing &amp; DBMS project.</text>
-        <text x="0" y="32">AICTE – EduSkills · 2026</text>
+        <text x="0" y="0">Process mining, execution management,</text>
+        <text x="0" y="16">business workflows &amp; intelligence pipelines.</text>
+        <text x="0" y="32">Aug–Oct 2026 · 8 Weeks · <tspan fill="#00F2FE" font-weight="700">Grade: O</tspan></text>
       </g>
     </g>
 
-    <!-- Card 2: Data Science Master (2026) -->
+    <!-- Card 2: Data Engineering (Aug–Oct 2026) -->
     <g transform="translate(356, 134)">
       <rect width="288" height="154" rx="10" fill="url(#c-card-bg)" stroke="#10B981" stroke-width="1.2" stroke-opacity="0.6"/>
       <g transform="translate(18, 20)">
-        <rect width="132" height="20" rx="4" fill="#0A241F" stroke="#10B981" stroke-width="0.8"/>
-        <text x="66" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9" fill="#34D399" font-weight="700">SIEMENS · AICTE</text>
+        <rect width="144" height="20" rx="4" fill="#0A241F" stroke="#10B981" stroke-width="0.8"/>
+        <text x="72" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9" fill="#34D399" font-weight="700">AWS ACADEMY · AICTE</text>
+        <circle cx="236" cy="10" r="4" fill="#10B981" filter="url(#c-glow)">
+          <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <text x="18" y="68" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="700" fill="#FFFFFF">Data Engineering</text>
+      <text x="18" y="88" font-family="'SF Mono', monospace" font-size="10" fill="#34D399">Virtual Internship · AWS Academy</text>
+      <g transform="translate(18, 108)" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#94A3B8">
+        <text x="0" y="0">Data ingestion pipelines, AWS analytics,</text>
+        <text x="0" y="16">distributed processing &amp; ETL workflows.</text>
+        <text x="0" y="32">Aug–Oct 2026 · 8 Weeks · <tspan fill="#34D399" font-weight="700">Grade: O</tspan></text>
+      </g>
+    </g>
+
+    <!-- Card 3: Cloud Foundations (Aug 2026) -->
+    <g transform="translate(672, 134)">
+      <rect width="288" height="154" rx="10" fill="url(#c-card-bg)" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.6"/>
+      <g transform="translate(18, 20)">
+        <rect width="144" height="20" rx="4" fill="#091A2E" stroke="#38BDF8" stroke-width="0.8"/>
+        <text x="72" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9" fill="#38BDF8" font-weight="700">AWS ACADEMY · CLOUD</text>
+        <circle cx="236" cy="10" r="4" fill="#10B981" filter="url(#c-glow)">
+          <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <text x="18" y="68" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="700" fill="#FFFFFF">Cloud Foundations</text>
+      <text x="18" y="88" font-family="'SF Mono', monospace" font-size="10" fill="#38BDF8">AWS Academy Graduate · Credly</text>
+      <g transform="translate(18, 108)" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#94A3B8">
+        <text x="0" y="0">Cloud concepts, AWS core services, security,</text>
+        <text x="0" y="16">cloud architecture, pricing &amp; support models.</text>
+        <text x="0" y="32">Completed 18 Aug 2026 · <tspan fill="#38BDF8" font-weight="700">20 Hours</tspan></text>
+      </g>
+    </g>
+
+    <!-- ROW 2 -->
+    <!-- Card 4: Cloud Architecting (Aug 2026) -->
+    <g transform="translate(40, 312)">
+      <rect width="288" height="154" rx="10" fill="url(#c-card-bg)" stroke="#7928CA" stroke-width="1.2" stroke-opacity="0.6"/>
+      <g transform="translate(18, 20)">
+        <rect width="144" height="20" rx="4" fill="#1B1030" stroke="#7928CA" stroke-width="0.8"/>
+        <text x="72" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9" fill="#C084FC" font-weight="700">AWS ACADEMY · CLOUD</text>
+        <circle cx="236" cy="10" r="4" fill="#10B981" filter="url(#c-glow)">
+          <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <text x="18" y="68" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="700" fill="#FFFFFF">Cloud Architecting</text>
+      <text x="18" y="88" font-family="'SF Mono', monospace" font-size="10" fill="#C084FC">AWS Academy Graduate · Credly</text>
+      <g transform="translate(18, 108)" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#94A3B8">
+        <text x="0" y="0">Well-Architected Framework, multi-tier,</text>
+        <text x="0" y="16">high availability, IAM &amp; resilient systems.</text>
+        <text x="0" y="32">Completed 18 Aug 2026 · <tspan fill="#C084FC" font-weight="700">60 Hours</tspan></text>
+      </g>
+    </g>
+
+    <!-- Card 5: Data Science Master (Jun–Aug 2026) -->
+    <g transform="translate(356, 312)">
+      <rect width="288" height="154" rx="10" fill="url(#c-card-bg)" stroke="#10B981" stroke-width="1.2" stroke-opacity="0.6"/>
+      <g transform="translate(18, 20)">
+        <rect width="138" height="20" rx="4" fill="#0A241F" stroke="#10B981" stroke-width="0.8"/>
+        <text x="69" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9" fill="#34D399" font-weight="700">SIEMENS · AICTE</text>
         <circle cx="236" cy="10" r="4" fill="#10B981" filter="url(#c-glow)">
           <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
         </circle>
@@ -72,86 +130,28 @@
       <text x="18" y="68" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="700" fill="#FFFFFF">Data Science Master</text>
       <text x="18" y="88" font-family="'SF Mono', monospace" font-size="10" fill="#34D399">Virtual Internship · Analytics</text>
       <g transform="translate(18, 108)" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#94A3B8">
-        <text x="0" y="0">Data science pipelines, model training,</text>
+        <text x="0" y="0">Data science pipelines, ML model training,</text>
         <text x="0" y="16">exploratory data analysis &amp; algorithms.</text>
-        <text x="0" y="32">Siemens / AICTE – EduSkills · 2026</text>
+        <text x="0" y="32">Jun–Aug 2026 · 8 Weeks · <tspan fill="#34D399" font-weight="700">Grade: O</tspan></text>
       </g>
     </g>
 
-    <!-- Card 3: Python Full-Stack and Java Full-Stack (2026) -->
-    <g transform="translate(672, 134)">
-      <rect width="288" height="154" rx="10" fill="url(#c-card-bg)" stroke="#7928CA" stroke-width="1.2" stroke-opacity="0.6"/>
-      <g transform="translate(18, 20)">
-        <rect width="138" height="20" rx="4" fill="#1B1030" stroke="#7928CA" stroke-width="0.8"/>
-        <text x="69" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9" fill="#C084FC" font-weight="700">AICTE · EDUSKILLS</text>
-        <circle cx="236" cy="10" r="4" fill="#10B981" filter="url(#c-glow)">
-          <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
-        </circle>
-      </g>
-      <text x="18" y="68" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="700" fill="#FFFFFF">Python &amp; Java Full-Stack</text>
-      <text x="18" y="88" font-family="'SF Mono', monospace" font-size="10" fill="#C084FC">Virtual Internships · Developer</text>
-      <g transform="translate(18, 108)" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#94A3B8">
-        <text x="0" y="0">End-to-end full stack architecture,</text>
-        <text x="0" y="16">backend APIs &amp; responsive UI development.</text>
-        <text x="0" y="32">AICTE – EduSkills · 2026</text>
-      </g>
-    </g>
-
-    <!-- ROW 2 -->
-    <!-- Card 4: IT Specialist: Data Analytics (Dec 2025) -->
-    <g transform="translate(40, 312)">
+    <!-- Card 6: Employability Skill Job Ready (Jun–Aug 2026) -->
+    <g transform="translate(672, 312)">
       <rect width="288" height="154" rx="10" fill="url(#c-card-bg)" stroke="#F59E0B" stroke-width="1.2" stroke-opacity="0.6"/>
       <g transform="translate(18, 20)">
-        <rect width="154" height="20" rx="4" fill="#1C180E" stroke="#F59E0B" stroke-width="0.8"/>
-        <text x="77" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9" fill="#F59E0B" font-weight="700">PEARSON · CERTIPORT</text>
+        <rect width="144" height="20" rx="4" fill="#1C180E" stroke="#F59E0B" stroke-width="0.8"/>
+        <text x="72" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9" fill="#F59E0B" font-weight="700">WADHWANI · AICTE</text>
         <circle cx="236" cy="10" r="4" fill="#10B981" filter="url(#c-glow)">
           <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
         </circle>
       </g>
-      <text x="18" y="68" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="700" fill="#FFFFFF">IT Specialist: Data Analytics</text>
-      <text x="18" y="88" font-family="'SF Mono', monospace" font-size="10" fill="#F59E0B">Pearson VUE / Certiport · Certified</text>
+      <text x="18" y="68" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Employability Skill Job Ready</text>
+      <text x="18" y="88" font-family="'SF Mono', monospace" font-size="10" fill="#F59E0B">Virtual Internship · Wadhwani</text>
       <g transform="translate(18, 108)" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#94A3B8">
-        <text x="0" y="0">Data modeling, statistical analysis,</text>
-        <text x="0" y="16">data visualization &amp; analytics workflows.</text>
-        <text x="0" y="32">Pearson VUE / Certiport · Dec 2025</text>
-      </g>
-    </g>
-
-    <!-- Card 5: Android Developer Virtual Internship (2025) -->
-    <g transform="translate(356, 312)">
-      <rect width="288" height="154" rx="10" fill="url(#c-card-bg)" stroke="#C084FC" stroke-width="1.2" stroke-opacity="0.6"/>
-      <g transform="translate(18, 20)">
-        <rect width="144" height="20" rx="4" fill="#1B1030" stroke="#7928CA" stroke-width="0.8"/>
-        <text x="72" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9" fill="#C084FC" font-weight="700">GOOGLE · EDUSKILLS</text>
-        <circle cx="236" cy="10" r="4" fill="#10B981" filter="url(#c-glow)">
-          <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
-        </circle>
-      </g>
-      <text x="18" y="68" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="700" fill="#FFFFFF">Android Developer</text>
-      <text x="18" y="88" font-family="'SF Mono', monospace" font-size="10" fill="#C084FC">Google for Developers · Virtual</text>
-      <g transform="translate(18, 108)" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#94A3B8">
-        <text x="0" y="0">Modern Android architecture, mobile UI,</text>
-        <text x="0" y="16">component lifecycle &amp; application design.</text>
-        <text x="0" y="32">Google for Developers / AICTE · 2025</text>
-      </g>
-    </g>
-
-    <!-- Card 6: AI-ML Virtual Internship (2025) -->
-    <g transform="translate(672, 312)">
-      <rect width="288" height="154" rx="10" fill="url(#c-card-bg)" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.6"/>
-      <g transform="translate(18, 20)">
-        <rect width="144" height="20" rx="4" fill="#091726" stroke="#38BDF8" stroke-width="0.8"/>
-        <text x="72" y="14" text-anchor="middle" font-family="'SF Mono', monospace" font-size="9" fill="#38BDF8" font-weight="700">GOOGLE · EDUSKILLS</text>
-        <circle cx="236" cy="10" r="4" fill="#10B981" filter="url(#c-glow)">
-          <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
-        </circle>
-      </g>
-      <text x="18" y="68" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="700" fill="#FFFFFF">AI-ML Virtual Internship</text>
-      <text x="18" y="88" font-family="'SF Mono', monospace" font-size="10" fill="#38BDF8">Google for Developers · Virtual</text>
-      <g transform="translate(18, 108)" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#94A3B8">
-        <text x="0" y="0">Machine learning models, classification,</text>
-        <text x="0" y="16">predictive modeling &amp; AI solutions.</text>
-        <text x="0" y="32">Google for Developers / AICTE · 2025</text>
+        <text x="0" y="0">Workplace readiness, professional problem</text>
+        <text x="0" y="16">solving, agile collaboration &amp; communication.</text>
+        <text x="0" y="32">Jun–Aug 2026 · 8 Weeks · <tspan fill="#F59E0B" font-weight="700">Grade: O</tspan></text>
       </g>
     </g>
 

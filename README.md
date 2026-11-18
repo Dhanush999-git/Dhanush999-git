@@ -96,17 +96,6 @@
 
 <br/>
 
-<!-- ═══ LOOPING VISUAL ═══ -->
-<div align="center">
-  <img
-    src="assets/readme-loop.gif"
-    width="100%"
-    alt=""
-  />
-</div>
-
-<br/>
-
 <!-- ═══ SECTION 05: PROJECTS — VERIFACT ═══ -->
 <div align="center">
   <a href="https://github.com/Dhanush999-git/MAJOR-PROJECT" target="_blank" rel="noopener noreferrer">
@@ -143,17 +132,67 @@
 <br/>
 
 <details>
-<summary><b style="color: #10B981; cursor: pointer;">View Additional Certifications &amp; Credentials (Expand Table)</b></summary>
+<summary><b style="color: #10B981; cursor: pointer;">Additional Certifications &amp; Credentials (Click to Expand)</b></summary>
 <br/>
 
-| Organization / Platform | Certification &amp; Credential | Year &amp; Details |
-|---|---|---|
-| **Infosys Springboard** | Cloud, Livelihood | 2026 · Grade A+ |
-| **Infosys Springboard** | Software Engineering and Agile | 2025 |
-| **NoSQL Systems** | NoSQL MongoDB | Document schema design, aggregation pipelines &amp; indexing |
-| **Distributed Systems** | Blockchain Virtual Internship | Decentralized protocols, consensus algorithms &amp; smart contracts |
-| **Security &amp; Networks** | Networking for Cyber Professionals | OSI layer routing, packet flow inspection &amp; perimeter defense |
-| **Cyber Defense** | Fundamentals of Cybersecurity | Threat modeling, vulnerability analysis &amp; security hygiene |
+### Category 1: AICTE–EduSkills Virtual Internships
+*Comprehensive 10-week and 8-week government and industry-backed virtual internships.*
+
+| Credential / Virtual Internship | Sponsoring Body / Tech Partner | Duration &amp; Timeline | Program Length | Grade |
+|---|---|---|---|:---:|
+| **AI-ML Virtual Internship** | Google for Developers (India Edu Program) | July–September 2025 | 10 Weeks | **Grade B** |
+| **Advanced Embedded System Developer Virtual Internship** | Microchip | July–September 2025 | 10 Weeks | **Grade O** |
+| **Android Developer Virtual Internship** | Google for Developers | October–December 2025 | 10 Weeks | **Grade O** |
+| **GEN-AI Virtual Internship** | Curriculum from AWS Academy | October–December 2025 | 10 Weeks | **Grade P** |
+| **Python Full Stack Developer Virtual Internship** | AICTE – EduSkills | January–March 2026 | 10 Weeks | **Grade O** |
+| **Java Full Stack Developer Virtual Internship** | AICTE – EduSkills | January–March 2026 | 10 Weeks | **Grade E** |
+| **Zero Trust Cloud Security Virtual Internship** | Zscaler | January–March 2025 | 10 Weeks | **Grade B** |
+| **Cybersecurity Virtual Internship** | Palo Alto Networks | April–June 2024 | 10 Weeks | **Grade P** |
+| **Blockchain Technology Virtual Internship** | AICTE – EduSkills | April–June 2026 | 8 Weeks | **Grade O** |
+| **SQL and Database Management Systems with Project Virtual Internship** | AICTE – EduSkills | April–June 2026 | 8 Weeks | **Grade E** |
+
+<br/>
+
+### Category 2: AWS Academy Graduate Badges
+*Official AWS Academy graduate digital badges verified via Credly.*
+
+| AWS Academy Graduate Digital Badge | Issuing Organization | Curriculum Length | Completion Date | Credly Verification Status |
+|---|---|:---:|---|:---:|
+| **AWS Academy Graduate – Machine Learning Foundations** | AWS Academy | 20 Hours | 28 December 2025 | Available on Credly |
+| **AWS Academy Graduate – Machine Learning for Natural Language Processing** | AWS Academy | 20 Hours | 28 December 2025 | Available on Credly |
+| **AWS Academy Graduate – Generative AI Foundations** | AWS Academy | 12 Hours | 28 December 2025 | Available on Credly |
+| **AWS Academy Graduate – Data Engineering** | AWS Academy | 40 Hours | 18 August 2026 | Available on Credly |
+
+> *Note: AWS Academy Cloud Foundations (20 Hours) and AWS Academy Cloud Architecting (60 Hours) are featured in the primary 6 credentials above.*
+
+<br/>
+
+### Category 3: Infosys, IBM, Pearson, Cisco and Other Professional Credentials
+*Industry-recognized professional certifications, enterprise credentials, and applied internships.*
+
+| Certification / Credential Name | Issuing Platform / Organization | Completion Date / Validity | Grade / Certificate Identifier | Domain Focus &amp; Core Competencies |
+|---|---|---|:---:|---|
+| **Certificate Course on Cloud** | Infosys Foundation &amp; ICT Academy (Infosys Springboard Livelihood) | 10–31 August 2026 | **Grade A+**<br/>Cert #`G-2026-G5868-0034` | Cloud architecture, virtualization, deployment &amp; management |
+| **Software Engineering and Agile Software Development** | Infosys Springboard | Completed 3 May 2025 | Completed | Agile methodologies, sprint planning, scrum &amp; software engineering principles |
+| **IT Specialist: Data Analytics** | Pearson VUE / Certiport | Awarded 5 December 2025 | Valid for 5 Years | Data modeling, statistical analysis, business intelligence &amp; analytics workflows |
+| **NoSQL – MongoDB** | IBM Developer Skills Network (Etrain) | 1 April 2026 | Verified | Document data models, aggregation framework, query optimization &amp; indexing |
+| **DevOps Fundamentals** | IBM Developer Skills Network (Etrain) | 8 October 2026 | Verified | CI/CD pipelines, containerization, infrastructure orchestration &amp; automation |
+| **Python Essentials 1** | Cisco Networking Academy | Issued 13 September 2025 | Verified | Python programming fundamentals, algorithmic problem-solving &amp; data structures |
+| **Artificial Intelligence Virtual Internship** | CodSoft | 20 September–20 October 2025 (Cert: 23 Oct 2025) | 4 Weeks | Practical AI/ML model development, evaluation &amp; real-world problem solving |
+
+<br/>
+
+### Category 4: Courses, Workshops and English Proficiency
+*Hands-on academic workshops, foundational computer science courses, and standardized international CEFR English test scores.*
+
+| Program / Assessment Name | Institution / Conducting Body | Program Duration | Date / Score | Competency Details |
+|---|---|:---:|---|---|
+| **Data Structure Using C** | Ethnotech / Srinivas Institute of Technology | 40-Hour Program | 27 May–1 June 2024 | Core data structures: linked lists, stacks, queues, trees, and graphs |
+| **Become Job-Ready in Coding – Basics of Data Structures and Algorithms** | Simplilearn SkillUP | Self-Paced | 15 December 2024 | Fundamental algorithms, sorting, searching, time &amp; space complexity |
+| **Introduction to the Fundamentals of Databases** | Simplilearn SkillUP | Self-Paced | 19 April 2025 | Relational database design, normalization, SQL querying &amp; schema architecture |
+| **Basics of PHP** | Swizosoft, Mangalore | 6-Day Workshop | 27 Nov–2 Dec 2023 (Cert: 21 Dec 2023) | Server-side web scripting, dynamic content generation &amp; database connectivity |
+| **EF SET English Test – Result 1** | EF Standard English Test | Standard Test | 25 June 2026<br/>**41/100 (B1 Intermediate)** | Reading &amp; Listening comprehension proficiency |
+| **EF SET English Test – Result 2** | EF Standard English Test | 50-Min 4-Skill Test | 25 June 2026<br/>**51/100 (B2 Upper Intermediate)** | Reading: **61 (C1)** \| Listening: **57 (B2)** \| Writing: **34 (A2)** \| Speaking: **50 (B1)** |
 
 </details>
 
@@ -278,6 +317,6 @@
   <img
     src="assets/sections/footer.svg"
     width="100%"
-    alt="Dhanush M D — Great engineering is not just about writing code. It's about understanding problems, designing thoughtful solutions, and continuously improving them."
+    alt="Dhanush M D — Engineering is about solving problems, designing with purpose, and improving every day."
   />
 </div>
